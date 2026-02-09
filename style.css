@@ -1,4 +1,4 @@
-/* Polymaker 基色 #50BFCA 为主：深色主题 + 青绿渐变 */
+/* Dark theme with Polymaker accent #50BFCA and teal gradient */
 :root {
   --bg-dark: #0d0d12;
   --bg-card: rgba(255, 255, 255, 0.05);
@@ -16,7 +16,7 @@
   --transition: 0.2s ease;
 }
 
-/* Wiki 内嵌主题：以 #E8F6F9 与 #FFF 的浅色渐变为主，贴近 Polymaker Wiki 配色 */
+/* Wiki embed theme: light gradient #E8F6F9 to #FFF, aligned with Polymaker Wiki palette */
 body.theme-wiki {
   --bg-dark: #E8F6F9;
   --bg-card: rgba(255, 255, 255, 0.96);
@@ -74,6 +74,7 @@ body.theme-wiki .bg-gradient {
   margin-bottom: 0.5rem;
   padding: 0.25rem 0;
   flex-shrink: 0;
+  overflow: visible;
 }
 
 .hero-main {
@@ -81,6 +82,16 @@ body.theme-wiki .bg-gradient {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
+  overflow: visible;
+}
+
+.hero-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  position: relative;
+  z-index: 10;
+  overflow: visible;
 }
 
 .hero-title {
@@ -108,8 +119,70 @@ body.theme-wiki .preset-text {
   margin: 0;
 }
 
-/* 主题切换按钮 */
+/* Help icon button */
+.help-icon-btn {
+  position: relative;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.3rem 0.55rem;
+  background: rgba(0, 0, 0, 0.4);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  text-decoration: none;
+  transition: border-color var(--transition), background var(--transition), box-shadow var(--transition), transform var(--transition);
+  font-family: inherit;
+}
+
+.help-icon-btn:hover {
+  border-color: rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.6);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.help-icon-btn:focus-visible {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(80, 191, 202, 0.35);
+}
+
+.help-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  color: var(--text-muted);
+  transition: color var(--transition);
+}
+
+.help-icon-btn:hover .help-icon {
+  color: var(--accent-light);
+}
+
+body.theme-wiki .help-icon-btn {
+  background: rgba(255, 255, 255, 0.92);
+  border-color: rgba(148, 163, 184, 0.5);
+}
+
+body.theme-wiki .help-icon-btn:hover {
+  border-color: rgba(59, 130, 246, 0.6);
+  background: #ffffff;
+  box-shadow: 0 6px 20px rgba(148, 163, 184, 0.45);
+}
+
+body.theme-wiki .help-icon {
+  color: var(--text-muted);
+}
+
+body.theme-wiki .help-icon-btn:hover .help-icon {
+  color: var(--accent);
+}
+
+/* Tooltip styles removed - using native browser tooltips via title attribute */
+
+/* Theme toggle button */
 .theme-toggle-btn {
+  position: relative;
   border: 1px solid var(--border);
   border-radius: 999px;
   padding: 0.3rem 0.55rem;
@@ -226,7 +299,7 @@ body.theme-wiki .list-card .list-title {
   color: var(--text-muted);
 }
 
-/* 自定义下拉组件 */
+/* Custom dropdown component */
 .dropdown {
   position: relative;
 }
@@ -270,14 +343,14 @@ body.theme-wiki .dropdown-toggle:hover {
 }
 
 .dropdown-arrow {
-  /* 使用 SVG 箭头图标，方便统一调色与大小 */
+  /* SVG arrow for consistent color and size */
   width: 1.2rem;
   height: 1.2rem;
   flex-shrink: 0;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
-  /* 下箭头 SVG，颜色为 text-muted */
+  /* Down arrow SVG, text-muted color */
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23a1a1aa' d='M3 4l3 4 3-4z'/%3E%3C/svg%3E");
 }
 
@@ -285,7 +358,7 @@ body.theme-wiki .dropdown-toggle:hover {
   position: absolute;
   inset-inline: 0;
   margin-top: 0.3rem;
-  /* 使用不透明深色背景，避免透出下方表格文字 */
+  /* Opaque dark background so table content does not show through */
   background: #050509;
   border-radius: var(--radius-lg);
   border: 1px solid var(--border);
@@ -345,7 +418,7 @@ body.theme-wiki .dropdown-option.is-active {
   color: #111827;
 }
 
-/* 下拉面板滚动条样式，和列表表格保持一致风格 */
+/* Dropdown panel scrollbar, consistent with list/table style */
 .dropdown-menu::-webkit-scrollbar {
   width: 6px;
 }
@@ -428,7 +501,8 @@ body.theme-wiki .dropdown-menu::-webkit-scrollbar-thumb {
   padding: 0.75rem 1rem;
   font-weight: 600;
   color: var(--text-muted);
-  /* 深色主题下使用深色背景，避免与内容重叠产生“穿透感” */
+  /* Dark background in dark theme to avoid content showing through */
+  /*“穿透感” */
   background: #050509;
   border-bottom: 1px solid var(--border);
   white-space: nowrap;
@@ -438,10 +512,23 @@ body.theme-wiki .dropdown-menu::-webkit-scrollbar-thumb {
   transition: background-color var(--transition), color var(--transition), border-color var(--transition);
 }
 
-/* Wiki 主题下的表头：使用 #00787C 品牌青色，并将文字改为白色以提升对比度 */
+/* Wiki theme table header: brand teal #00787C with white text for contrast */
 body.theme-wiki .preset-table th {
   background: #00787C;
   color: #ffffff;
+}
+
+.preset-table td.td-actions {
+  white-space: nowrap;
+}
+
+.preset-table td.td-actions .btn-download,
+.preset-table td.td-actions .btn-download-zip-row {
+  margin-right: 0.5rem;
+}
+
+.preset-table td.td-actions .btn-download-zip-row:last-child {
+  margin-right: 0;
 }
 
 .preset-table td {
@@ -463,6 +550,15 @@ body.theme-wiki .preset-table th {
   border-bottom: none;
 }
 
+/* Row preset dropdown: same custom dropdown as filters, shares .dropdown styles in dark/Wiki themes */
+.preset-table .preset-row-dropdown {
+  max-width: 280px;
+}
+
+.preset-table .preset-row-dropdown .dropdown-menu {
+  z-index: 50;
+}
+
 .preset-table a {
   display: inline-flex;
   align-items: center;
@@ -480,7 +576,7 @@ body.theme-wiki .preset-table th {
 
 body.theme-wiki .preset-table a {
   color: #0f172a;
-  /* 默认状态：参考图中透明度，略高一点保证可读性 */
+  /* Default state: slightly higher opacity for readability */
   background: rgba(80, 191, 202, 0.28);
   border-color: rgba(80, 191, 202, 0.55);
 }
@@ -520,6 +616,206 @@ body.theme-wiki .preset-table a:hover {
   text-decoration: underline;
 }
 
+/* Modal */
+.modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity var(--transition);
+}
+
+.modal.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+}
+
+.modal-content {
+  position: relative;
+  z-index: 1;
+  width: 90%;
+  max-width: 600px;
+  max-height: 85vh;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transform: scale(0.95) translateY(10px);
+  transition: transform var(--transition);
+}
+
+.modal.is-open .modal-content {
+  transform: scale(1) translateY(0);
+}
+
+body.theme-wiki .modal-content {
+  background: #ffffff;
+  border-color: rgba(148, 163, 184, 0.5);
+  box-shadow: 0 20px 60px rgba(148, 163, 184, 0.4);
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.modal-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--text);
+}
+
+body.theme-wiki .modal-title {
+  color: var(--text);
+}
+
+.modal-close {
+  border: none;
+  background: transparent;
+  padding: 0.25rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius);
+  transition: color var(--transition), background var(--transition);
+}
+
+.modal-close:hover {
+  color: var(--text);
+  background: var(--bg-card-hover);
+}
+
+.modal-body {
+  padding: 1.5rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.modal-body::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-body::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: var(--radius);
+}
+
+.modal-body::-webkit-scrollbar-thumb {
+  background: rgba(80, 191, 202, 0.4);
+  border-radius: 4px;
+}
+
+.modal-body::-webkit-scrollbar-thumb:hover {
+  background: rgba(80, 191, 202, 0.6);
+}
+
+body.theme-wiki .modal-body::-webkit-scrollbar-track {
+  background: rgba(226, 232, 240, 0.9);
+}
+
+body.theme-wiki .modal-body::-webkit-scrollbar-thumb {
+  background: rgba(80, 191, 202, 0.6);
+}
+
+.install-section {
+  margin-bottom: 2rem;
+}
+
+.install-section:last-child {
+  margin-bottom: 0;
+}
+
+.install-section-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+  color: var(--accent);
+}
+
+body.theme-wiki .install-section-title {
+  color: var(--accent);
+}
+
+.install-steps {
+  margin: 0;
+  padding-left: 1.5rem;
+  color: var(--text);
+  line-height: 1.7;
+}
+
+.install-steps li {
+  margin-bottom: 0.75rem;
+}
+
+.install-steps li:last-child {
+  margin-bottom: 0;
+}
+
+.install-steps ul {
+  margin: 0.5rem 0 0 1.25rem;
+  padding-left: 1rem;
+}
+
+.install-steps code {
+  background: rgba(0, 0, 0, 0.3);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.9em;
+  font-family: 'Courier New', monospace;
+  color: var(--accent-light);
+}
+
+body.theme-wiki .install-steps code {
+  background: rgba(80, 191, 202, 0.15);
+  color: var(--accent);
+}
+
+.install-steps a {
+  color: var(--accent-light);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color var(--transition);
+}
+
+.install-steps a:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+body.theme-wiki .install-steps a {
+  color: var(--accent);
+}
+
+.install-steps strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+body.theme-wiki .install-steps strong {
+  color: var(--text);
+}
+
 /* Responsive */
 @media (max-width: 640px) {
   .page {
@@ -557,5 +853,25 @@ body.theme-wiki .preset-table a:hover {
   .footer {
     padding: 0.3rem 0 0;
     font-size: 0.7rem;
+  }
+  .modal-content {
+    width: 95%;
+    max-height: 90vh;
+  }
+  .modal-header {
+    padding: 1rem 1.25rem;
+  }
+  .modal-title {
+    font-size: 1.1rem;
+  }
+  .modal-body {
+    padding: 1.25rem;
+  }
+  .install-section-title {
+    font-size: 1rem;
+  }
+  .install-steps {
+    padding-left: 1.25rem;
+    font-size: 0.9rem;
   }
 }

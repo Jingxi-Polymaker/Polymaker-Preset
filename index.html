@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Polymaker Print Presets</title>
+  <link rel="icon" type="image/x-icon" href="./favicon.ico">
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="apple-touch-icon" href="./favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -18,15 +21,34 @@
           <span class="brand-name">Polymaker</span>
           <span class="preset-text">Print Presets</span>
         </h1>
-        <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Toggle theme">
-          <span class="theme-toggle-icon" aria-hidden="true"></span>
-        </button>
+        <div class="hero-actions">
+          <button id="help-btn" class="help-icon-btn" type="button" aria-label="Manual Installation" title="Manual Installation">
+            <svg class="help-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+              <line x1="12" y1="17" x2="12.01" y2="17"></line>
+            </svg>
+          </button>
+          <button id="theme-toggle" class="theme-toggle-btn" type="button" aria-label="Toggle theme" title="Toggle theme">
+            <span class="theme-toggle-icon" aria-hidden="true"></span>
+          </button>
+        </div>
       </div>
-      <p class="hero-desc">Select material, brand, model, and slicer to download preset files</p>
+      <p class="hero-desc">Select Series, Material, Printer Brand, Printer Model, and Slicer to download preset files</p>
     </header>
 
     <section class="card filters-card">
       <div class="filters">
+        <div class="filter-group">
+          <label class="filter-label">Series</label>
+          <div class="dropdown" data-filter="series">
+            <button class="dropdown-toggle" type="button">
+              <span class="dropdown-label">All</span>
+              <span class="dropdown-arrow" aria-hidden="true"></span>
+            </button>
+            <div class="dropdown-menu"></div>
+          </div>
+        </div>
         <div class="filter-group">
           <label class="filter-label">Material</label>
           <div class="dropdown" data-filter="material">
@@ -38,7 +60,7 @@
           </div>
         </div>
         <div class="filter-group">
-          <label class="filter-label">Brand</label>
+          <label class="filter-label">Printer Brand</label>
           <div class="dropdown" data-filter="brand">
             <button class="dropdown-toggle" type="button">
               <span class="dropdown-label">All</span>
@@ -48,7 +70,7 @@
           </div>
         </div>
         <div class="filter-group">
-          <label class="filter-label">Model</label>
+          <label class="filter-label">Printer Model</label>
           <div class="dropdown" data-filter="model">
             <button class="dropdown-toggle" type="button">
               <span class="dropdown-label">All</span>
@@ -80,10 +102,8 @@
           <thead>
             <tr>
               <th>Material</th>
-              <th>Brand</th>
-              <th>Model</th>
-              <th>Slicer</th>
-              <th>Action</th>
+              <th>Filament Preset</th>
+              <th>Download Action</th>
             </tr>
           </thead>
           <tbody id="tbody"></tbody>
@@ -92,9 +112,53 @@
     </section>
 
     <footer class="footer">
-      <p>Installation instructions available in the <a href="https://github.com/Polymaker3D/Polymaker-Preset#readme" target="_blank" rel="noopener noreferrer">README</a></p>
+      <p>For more information, see <a href="https://github.com/Polymaker3D/Polymaker-Preset#readme" target="_blank" rel="noopener noreferrer">README</a></p>
     </footer>
   </div>
+
+  <!-- Manual Installation Modal -->
+  <div id="install-modal" class="modal" role="dialog" aria-labelledby="modal-title" aria-hidden="true">
+    <div class="modal-overlay"></div>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 id="modal-title" class="modal-title">📦 Manual Installation</h2>
+        <button class="modal-close" type="button" aria-label="Close modal">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="install-section">
+          <h3 class="install-section-title">Bambu Studio</h3>
+          <ol class="install-steps">
+            <li>Download the preset JSON file (or single-file ZIP) from the <a href="https://polymaker3d.github.io/Polymaker-Preset/" target="_blank" rel="noopener noreferrer">download page</a>.</li>
+            <li>Open Bambu Studio.</li>
+            <li>Go to <strong>File</strong> → <strong>Import</strong> → <strong>Import Preset...</strong>.</li>
+            <li>Select a JSON or ZIP file.</li>
+            <li>Click on a material in the project consumables list, select the imported custom preset, and the preset will appear in the preset list.</li>
+          </ol>
+        </div>
+        <div class="install-section">
+          <h3 class="install-section-title">OrcaSlicer / ElegooSlicer</h3>
+          <ol class="install-steps">
+            <li>Download the preset as <strong>JSON</strong> or <strong>single-file ZIP</strong> from the <a href="https://polymaker3d.github.io/Polymaker-Preset/" target="_blank" rel="noopener noreferrer">download page</a>.</li>
+            <li>Open OrcaSlicer or ElegooSlicer.</li>
+            <li>Go to <strong>File</strong> → <strong>Import</strong>:
+              <ul>
+                <li>For a <strong>JSON</strong> file: choose <strong>Import Configs...</strong> (OrcaSlicer) or <strong>Import Preset...</strong> (ElegooSlicer), then select the JSON file.</li>
+                <li>For a <strong>ZIP</strong> file: choose <strong>Import Zip Archive...</strong> (or the equivalent, e.g. "Import Zip Archive…" in ElegooSlicer), then select the ZIP file (no need to unzip).</li>
+              </ul>
+            </li>
+            <li>The preset will appear in your preset list.</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
