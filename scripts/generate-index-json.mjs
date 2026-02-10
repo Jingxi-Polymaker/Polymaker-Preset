@@ -67,23 +67,34 @@ async function main() {
     const relFromPreset = path.relative(PRESET_DIR, absFile);
     const parts = relFromPreset.split(path.sep);
 
-    // Expected: <Material>/<Brand>/<Model>/<Slicer>/<Preset>.json
-    if (parts.length < 5) continue;
+    // Expected: <Material>/<MaterialType>/<PrinterBrand>/<PrinterModel>/<Slicer>/<Preset>.json
+    if (parts.length < 6) continue;
 
     const material = parts[0];
-    const brand = parts[1];
-    const model = parts[2];
-    const slicer = parts[3];
+    const materialType = parts[1];
+    const printerBrand = parts[2];
+    const printerModel = parts[3];
+    const slicer = parts[4];
     const filename = parts[parts.length - 1];
 
     const relPath = normalizePosix(path.join('preset', relFromPreset));
 
-    materials.add(material);
-    brands.add(brand);
-    models.add(model);
+    // Combine material and materialType for display
+    const fullMaterial = materialType;
+    
+    materials.add(fullMaterial);
+    brands.add(printerBrand);
+    models.add(printerModel);
     slicers.add(slicer);
 
-    presets.push({ material, brand, model, slicer, path: relPath, filename });
+    presets.push({ 
+      material: fullMaterial, 
+      brand: printerBrand, 
+      model: printerModel, 
+      slicer, 
+      path: relPath, 
+      filename 
+    });
   }
 
   const next = {
