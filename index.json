@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-02-10T09:28:47.340Z",
+  "updatedAt": "2026-02-10T09:30:55.538Z",
   "materials": [
     "Fiberon PA12-CF10",
     "Fiberon PA6-CF20",
@@ -453,14 +453,6 @@
       "material": "Panchroma PLA",
       "brand": "Snapmaker",
       "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA/Snapmaker/U1/BambuStudio/Panchroma PLA @Snapmaker U1.json",
-      "filename": "Panchroma PLA @Snapmaker U1.json"
-    },
-    {
-      "material": "Panchroma PLA",
-      "brand": "Snapmaker",
-      "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker/Panchroma PLA/Snapmaker/U1/OrcaSlicer/Panchroma PLA @Snapmaker U1.json",
       "filename": "Panchroma PLA @Snapmaker U1.json"
@@ -562,14 +554,6 @@
       "filename": "Panchroma PLA Celestial @Elegoo CC2.json"
     },
     {
-      "material": "Panchroma PLA Celestial",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Celestial/Snapmaker/U1/BambuStudio/Panchroma PLA Celestial @Snapmaker U1.json",
-      "filename": "Panchroma PLA Celestial @Snapmaker U1.json"
-    },
-    {
       "material": "Panchroma PLA Galaxy",
       "brand": "BBL",
       "model": "A1",
@@ -664,14 +648,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/Panchroma PLA Galaxy/Elegoo/CC2/ElegooSlicer/Panchroma PLA Galaxy @Elegoo CC2.json",
       "filename": "Panchroma PLA Galaxy @Elegoo CC2.json"
-    },
-    {
-      "material": "Panchroma PLA Galaxy",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Galaxy/Snapmaker/U1/BambuStudio/Panchroma PLA Galaxy @Snapmaker U1.json",
-      "filename": "Panchroma PLA Galaxy @Snapmaker U1.json"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -770,14 +746,6 @@
       "filename": "Panchroma PLA Glow @Elegoo CC2.json"
     },
     {
-      "material": "Panchroma PLA Glow",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Glow/Snapmaker/U1/BambuStudio/Panchroma PLA Glow @Snapmaker U1.json",
-      "filename": "Panchroma PLA Glow @Snapmaker U1.json"
-    },
-    {
       "material": "Panchroma PLA Luminous",
       "brand": "BBL",
       "model": "A1",
@@ -872,14 +840,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/Panchroma PLA Luminous/Elegoo/CC2/ElegooSlicer/Panchroma PLA Luminous @Elegoo CC2.json",
       "filename": "Panchroma PLA Luminous @Elegoo CC2.json"
-    },
-    {
-      "material": "Panchroma PLA Luminous",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Luminous/Snapmaker/U1/BambuStudio/Panchroma PLA Luminous @Snapmaker U1.json",
-      "filename": "Panchroma PLA Luminous @Snapmaker U1.json"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -1154,14 +1114,6 @@
       "filename": "Panchroma PLA Metallic @Elegoo CC2.json"
     },
     {
-      "material": "Panchroma PLA Metallic",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Metallic/Snapmaker/U1/BambuStudio/Panchroma PLA Metallic @Snapmaker U1.json",
-      "filename": "Panchroma PLA Metallic @Snapmaker U1.json"
-    },
-    {
       "material": "Panchroma PLA Neon",
       "brand": "BBL",
       "model": "A1",
@@ -1256,14 +1208,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/Panchroma PLA Neon/Elegoo/CC2/ElegooSlicer/Panchroma PLA Neon @Elegoo CC2.json",
       "filename": "Panchroma PLA Neon @Elegoo CC2.json"
-    },
-    {
-      "material": "Panchroma PLA Neon",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Neon/Snapmaker/U1/BambuStudio/Panchroma PLA Neon @Snapmaker U1.json",
-      "filename": "Panchroma PLA Neon @Snapmaker U1.json"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1546,14 +1490,6 @@
       "filename": "Panchroma PLA Starlight @Elegoo CC2.json"
     },
     {
-      "material": "Panchroma PLA Starlight",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Starlight/Snapmaker/U1/BambuStudio/Panchroma PLA Starlight @Snapmaker U1.json",
-      "filename": "Panchroma PLA Starlight @Snapmaker U1.json"
-    },
-    {
       "material": "Panchroma PLA Translucent",
       "brand": "BBL",
       "model": "A1",
@@ -1650,14 +1586,6 @@
       "filename": "Panchroma PLA Translucent @Elegoo CC2.json"
     },
     {
-      "material": "Panchroma PLA Translucent",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA Translucent/Snapmaker/U1/BambuStudio/Panchroma PLA Translucent @Snapmaker U1.json",
-      "filename": "Panchroma PLA Translucent @Snapmaker U1.json"
-    },
-    {
       "material": "Panchroma PLA UV Shift",
       "brand": "BBL",
       "model": "A1",
@@ -1752,14 +1680,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/Panchroma PLA UV Shift/Elegoo/CC2/ElegooSlicer/Panchroma PLA UV Shift @Elegoo CC2.json",
       "filename": "Panchroma PLA UV Shift @Elegoo CC2.json"
-    },
-    {
-      "material": "Panchroma PLA UV Shift",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/Panchroma PLA UV Shift/Snapmaker/U1/BambuStudio/Panchroma PLA UV Shift @Snapmaker U1.json",
-      "filename": "Panchroma PLA UV Shift @Snapmaker U1.json"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1898,14 +1818,6 @@
       "filename": "PolyLite PLA @Elegoo CC2.json"
     },
     {
-      "material": "PolyLite PLA",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA/Snapmaker/U1/BambuStudio/PolyLite PLA @Snapmaker U1.json",
-      "filename": "PolyLite PLA @Snapmaker U1.json"
-    },
-    {
       "material": "PolyLite PLA Galaxy",
       "brand": "BBL",
       "model": "A1",
@@ -2000,14 +1912,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/PolyLite PLA Galaxy/Elegoo/CC2/ElegooSlicer/PolyLite PLA Galaxy @Elegoo CC2.json",
       "filename": "PolyLite PLA Galaxy @Elegoo CC2.json"
-    },
-    {
-      "material": "PolyLite PLA Galaxy",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Galaxy/Snapmaker/U1/BambuStudio/PolyLite PLA Galaxy @Snapmaker U1.json",
-      "filename": "PolyLite PLA Galaxy @Snapmaker U1.json"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2106,14 +2010,6 @@
       "filename": "PolyLite PLA Glow @Elegoo CC2.json"
     },
     {
-      "material": "PolyLite PLA Glow",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Glow/Snapmaker/U1/BambuStudio/PolyLite PLA Glow @Snapmaker U1.json",
-      "filename": "PolyLite PLA Glow @Snapmaker U1.json"
-    },
-    {
       "material": "PolyLite PLA Luminous",
       "brand": "BBL",
       "model": "A1",
@@ -2210,14 +2106,6 @@
       "filename": "PolyLite PLA Luminous @Elegoo CC2.json"
     },
     {
-      "material": "PolyLite PLA Luminous",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Luminous/Snapmaker/U1/BambuStudio/PolyLite PLA Luminous @Snapmaker U1.json",
-      "filename": "PolyLite PLA Luminous @Snapmaker U1.json"
-    },
-    {
       "material": "PolyLite PLA Neon",
       "brand": "BBL",
       "model": "A1",
@@ -2312,14 +2200,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/PolyLite PLA Neon/Elegoo/CC2/ElegooSlicer/PolyLite PLA Neon @Elegoo CC2.json",
       "filename": "PolyLite PLA Neon @Elegoo CC2.json"
-    },
-    {
-      "material": "PolyLite PLA Neon",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Neon/Snapmaker/U1/BambuStudio/PolyLite PLA Neon @Snapmaker U1.json",
-      "filename": "PolyLite PLA Neon @Snapmaker U1.json"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2466,14 +2346,6 @@
       "filename": "PolyLite PLA Starlight @Elegoo CC2.json"
     },
     {
-      "material": "PolyLite PLA Starlight",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Starlight/Snapmaker/U1/BambuStudio/PolyLite PLA Starlight @Snapmaker U1.json",
-      "filename": "PolyLite PLA Starlight @Snapmaker U1.json"
-    },
-    {
       "material": "PolyLite PLA Translucent",
       "brand": "BBL",
       "model": "A1",
@@ -2568,14 +2440,6 @@
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker/PolyLite PLA Translucent/Elegoo/CC2/ElegooSlicer/PolyLite PLA Translucent @Elegoo CC2.json",
       "filename": "PolyLite PLA Translucent @Elegoo CC2.json"
-    },
-    {
-      "material": "PolyLite PLA Translucent",
-      "brand": "Snapmaker",
-      "model": "U1",
-      "slicer": "BambuStudio",
-      "path": "preset/Polymaker/PolyLite PLA Translucent/Snapmaker/U1/BambuStudio/PolyLite PLA Translucent @Snapmaker U1.json",
-      "filename": "PolyLite PLA Translucent @Snapmaker U1.json"
     },
     {
       "material": "PolyTerra PLA",
