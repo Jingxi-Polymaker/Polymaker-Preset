@@ -88,8 +88,8 @@ function init() {
   // Track selected presets
   var selectedPresets = {};
 
-  // Material series for filtering: Panchroma / Polymaker / Fiberon / PolyTerra / PolyLite
-  var MATERIAL_SERIES = ['Panchroma', 'Polymaker', 'Fiberon', 'PolyTerra', 'PolyLite'];
+  // Material series for filtering: Panchroma / Polymaker (includes PolyTerra/PolyLite) / Fiberon
+  var MATERIAL_SERIES = ['Panchroma', 'Polymaker', 'Fiberon'];
 
   initTheme();
 
@@ -249,10 +249,23 @@ function init() {
       // Initial visibility check
       updateVisibility();
 
+      /** Check if material belongs to a series (handles Polymaker including PolyTerra/PolyLite) */
+      function materialMatchesSeries(material, series) {
+        if (!series) return true;
+        if (!material) return false;
+        // Polymaker series includes Polymaker, PolyTerra, and PolyLite materials
+        if (series === 'Polymaker') {
+          return material.indexOf('Polymaker ') === 0 ||
+                 material.indexOf('PolyTerra ') === 0 ||
+                 material.indexOf('PolyLite ') === 0;
+        }
+        return material.indexOf(series + ' ') === 0;
+      }
+
       /** Return presets matching current filters except the given dimension (for building "has result" option lists). */
       function getMatchingPresets(exceptFilter) {
         return presets.filter(function (p) {
-          if (exceptFilter !== 'series' && filterState.series && (p.material || '').indexOf(filterState.series + ' ') !== 0) return false;
+          if (exceptFilter !== 'series' && filterState.series && !materialMatchesSeries(p.material, filterState.series)) return false;
           if (exceptFilter !== 'brand' && filterState.brand && p.brand !== filterState.brand) return false;
           if (exceptFilter !== 'model' && filterState.model && p.model !== filterState.model) return false;
           if (exceptFilter !== 'slicer' && filterState.slicer && p.slicer !== filterState.slicer) return false;
@@ -280,11 +293,12 @@ function init() {
         if (labelEl) labelEl.textContent = display || 'All';
       }
 
-      /** Only show filter options that have at least one preset to avoid zero-result combinations. */
+      /** Only show filter options that have at least one preset to avoid zero-result combinations.
+       *  Note: Slicer dropdown is NOT updated here - it remains independent of other filters. */
       function updateAllFilterOptions() {
         var matchSeries = getMatchingPresets('series');
         var seriesList = MATERIAL_SERIES.filter(function (s) {
-          return matchSeries.some(function (p) { return (p.material || '').indexOf(s + ' ') === 0; });
+          return matchSeries.some(function (p) { return materialMatchesSeries(p.material, s); });
         });
         updateDropdownOptions('series', seriesList);
 
@@ -308,15 +322,8 @@ function init() {
         modelList.sort();
         updateDropdownOptions('model', modelList);
 
-        var matchSlicer = getMatchingPresets('slicer');
-        var slicerList = [];
-        var seenSlicer = {};
-        matchSlicer.forEach(function (p) {
-          var s = p.slicer || '';
-          if (!seenSlicer[s]) { seenSlicer[s] = true; slicerList.push(s); }
-        });
-        slicerList.sort();
-        updateDropdownOptions('slicer', slicerList);
+        // Slicer dropdown is NOT updated here - it should show all available slicers
+        // regardless of other filter selections
       }
 
       // Update the selected count display and button state
@@ -612,7 +619,7 @@ function init() {
         var model = filterState.model;
         var slicer = filterState.slicer;
         var filtered = presets.filter(function (p) {
-          if (series && (p.material || '').indexOf(series + ' ') !== 0) return false;
+          if (series && !materialMatchesSeries(p.material, series)) return false;
           if (brand && p.brand !== brand) return false;
           if (model && p.model !== model) return false;
           if (slicer && p.slicer !== slicer) return false;
