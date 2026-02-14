@@ -556,12 +556,17 @@ body.theme-wiki .dropdown-menu::-webkit-scrollbar-thumb {
 
 .preset-table th:nth-child(3),
 .preset-table td:nth-child(3) {
-  width: 40%;
+  width: 35%;
 }
 
 .preset-table th:nth-child(4),
 .preset-table td:nth-child(4) {
-  width: 20%;
+  width: 15%;
+}
+
+.preset-table th:nth-child(5),
+.preset-table td:nth-child(5) {
+  width: 15%;
 }
 
 .preset-table th {

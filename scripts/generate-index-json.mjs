@@ -1,9 +1,22 @@
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
+import { execSync } from 'node:child_process';
 
 const REPO_ROOT = process.cwd();
 const PRESET_DIR = path.join(REPO_ROOT, 'preset');
 const INDEX_JSON_PATH = path.join(REPO_ROOT, 'index.json');
+
+function getGitLastUpdate(filePath) {
+  try {
+    const output = execSync(
+      `git log -1 --format=%cI -- "${filePath}"`,
+      { encoding: 'utf8', cwd: REPO_ROOT }
+    );
+    return output.trim() || null;
+  } catch {
+    return null;
+  }
+}
 
 async function fileExists(p) {
   try {
@@ -60,7 +73,7 @@ async function main() {
   const models = new Set();
   const slicers = new Set();
 
-  /** @type {{material:string,brand:string,model:string,slicer:string,path:string,filename:string}[]} */
+  /** @type {{material:string,brand:string,model:string,slicer:string,path:string,filename:string,updatedAt:string|null}[]} */
   const presets = [];
 
   for (const absFile of jsonFiles) {
@@ -77,6 +90,7 @@ async function main() {
     const filename = parts[parts.length - 1];
 
     const relPath = normalizePosix(path.join('preset', relFromPreset));
+    const updatedAt = getGitLastUpdate(relPath);
     
     materials.add(material);
     brands.add(printerBrand);
@@ -89,7 +103,8 @@ async function main() {
       model: printerModel, 
       slicer, 
       path: relPath, 
-      filename 
+      filename,
+      updatedAt
     });
   }
 

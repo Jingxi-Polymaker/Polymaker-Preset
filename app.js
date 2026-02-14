@@ -649,6 +649,17 @@ function init() {
         // Chevron right SVG icon
         var folderIconSvg = '<svg class="folder-icon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>';
 
+        // Format date for display
+        function formatDate(dateString) {
+          if (!dateString) return '-';
+          try {
+            var date = new Date(dateString);
+            return date.toLocaleDateString();
+          } catch (e) {
+            return '-';
+          }
+        }
+
         for (var mat in groups) {
           var list = groups[mat];
           totalPresets += list.length;
@@ -673,6 +684,7 @@ function init() {
             rowsHtml.push('<tr class="folder-row" data-folder-id="' + folderId + '">' +
               '<td><label class="checkbox-label folder-checkbox-label" data-folder-id="' + folderId + '"><input type="checkbox" class="checkbox-input folder-checkbox-input"' + folderChecked + folderIndeterminate + '><span class="checkbox-custom"></span></label></td>' +
               '<td colspan="2">' + folderIconSvg + escapeHtml(mat) + ' <span class="folder-count">(' + list.length + ' presets)</span></td>' +
+              '<td>-</td>' +
               '<td class="td-actions"><span class="folder-hint">Click to expand</span></td>' +
               '</tr>');
 
@@ -689,6 +701,7 @@ function init() {
                 '<td>' + checkboxHtml + '</td>' +
                 '<td class="child-material">' + escapeHtml(mat) + '</td>' +
                 '<td>' + escapeHtml(presetLabel.trim()) + '</td>' +
+                '<td>' + formatDate(p.updatedAt) + '</td>' +
                 '<td class="td-actions"><a href="' + url + '" class="btn-download" data-download-url="' + escapeHtml(url) + '" data-download-filename="' + escapeHtml(filename) + '" role="button" title="Download as JSON file">JSON</a></td>' +
                 '</tr>');
             });
@@ -705,6 +718,7 @@ function init() {
               '<td>' + checkboxHtml0 + '</td>' +
               '<td>' + escapeHtml(mat) + '</td>' +
               '<td>' + escapeHtml(presetLabel.trim()) + '</td>' +
+              '<td>' + formatDate(first.updatedAt) + '</td>' +
               '<td class="td-actions"><a href="' + url0 + '" class="btn-download" data-download-url="' + escapeHtml(url0) + '" data-download-filename="' + escapeHtml(filename0) + '" role="button" title="Download as JSON file">JSON</a></td>' +
               '</tr>');
           }

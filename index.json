@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-02-11T07:28:24.578Z",
+  "updatedAt": "2026-02-14T03:16:14.525Z",
   "materials": [
     "Fiberon PA12-CF10",
     "Fiberon PA6-CF20",
@@ -79,7 +79,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA12-CF10/BBL/H2D/BambuStudio/Fiberon PA12-CF10 @BBL H2D.json",
-      "filename": "Fiberon PA12-CF10 @BBL H2D.json"
+      "filename": "Fiberon PA12-CF10 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA12-CF10",
@@ -87,7 +88,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA12-CF10/BBL/X1/BambuStudio/Fiberon PA12-CF10 @BBL X1.json",
-      "filename": "Fiberon PA12-CF10 @BBL X1.json"
+      "filename": "Fiberon PA12-CF10 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA12-CF10",
@@ -95,7 +97,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PA12-CF10/BBL/X1/Orcaslicer/Fiberon PA12-CF10 @BBL X1.json",
-      "filename": "Fiberon PA12-CF10 @BBL X1.json"
+      "filename": "Fiberon PA12-CF10 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-CF20",
@@ -103,7 +106,8 @@
       "model": "Kobra S1",
       "slicer": "OrcaSlicer",
       "path": "preset/Fiberon PA6-CF20/Anycubic/Kobra S1/OrcaSlicer/Fiberon PA6-CF20 @Anycubic Kobra S1.json",
-      "filename": "Fiberon PA6-CF20 @Anycubic Kobra S1.json"
+      "filename": "Fiberon PA6-CF20 @Anycubic Kobra S1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-CF20",
@@ -111,7 +115,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA6-CF20/BBL/H2D/BambuStudio/Fiberon PA6-CF20 @BBL H2D.json",
-      "filename": "Fiberon PA6-CF20 @BBL H2D.json"
+      "filename": "Fiberon PA6-CF20 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-CF20",
@@ -119,7 +124,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA6-CF20/BBL/X1/BambuStudio/Fiberon PA6-CF20 @BBL X1.json",
-      "filename": "Fiberon PA6-CF20 @BBL X1.json"
+      "filename": "Fiberon PA6-CF20 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-CF20",
@@ -127,7 +133,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PA6-CF20/BBL/X1/Orcaslicer/Fiberon PA6-CF20 @BBL X1.json",
-      "filename": "Fiberon PA6-CF20 @BBL X1.json"
+      "filename": "Fiberon PA6-CF20 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-GF25",
@@ -135,7 +142,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA6-GF25/BBL/H2D/BambuStudio/Fiberon PA6-GF25 @BBL H2D.json",
-      "filename": "Fiberon PA6-GF25 @BBL H2D.json"
+      "filename": "Fiberon PA6-GF25 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-GF25",
@@ -143,7 +151,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA6-GF25/BBL/X1/BambuStudio/Fiberon PA6-GF25 @BBL X1.json",
-      "filename": "Fiberon PA6-GF25 @BBL X1.json"
+      "filename": "Fiberon PA6-GF25 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA6-GF25",
@@ -151,7 +160,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PA6-GF25/BBL/X1/Orcaslicer/Fiberon PA6-GF25 @BBL X1.json",
-      "filename": "Fiberon PA6-GF25 @BBL X1.json"
+      "filename": "Fiberon PA6-GF25 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA612-CF15",
@@ -159,7 +169,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA612-CF15/BBL/H2D/BambuStudio/Fiberon PA612-CF15 @BBL H2D.json",
-      "filename": "Fiberon PA612-CF15 @BBL H2D.json"
+      "filename": "Fiberon PA612-CF15 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA612-CF15",
@@ -167,7 +178,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PA612-CF15/BBL/X1/BambuStudio/Fiberon PA612-CF15 @BBL X1.json",
-      "filename": "Fiberon PA612-CF15 @BBL X1.json"
+      "filename": "Fiberon PA612-CF15 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PA612-CF15",
@@ -175,7 +187,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PA612-CF15/BBL/X1/Orcaslicer/Fiberon PA612-CF15 @BBL X1.json",
-      "filename": "Fiberon PA612-CF15 @BBL X1.json"
+      "filename": "Fiberon PA612-CF15 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PET-CF17",
@@ -183,7 +196,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PET-CF17/BBL/H2D/BambuStudio/Fiberon PET-CF17 @BBL H2D.json",
-      "filename": "Fiberon PET-CF17 @BBL H2D.json"
+      "filename": "Fiberon PET-CF17 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PET-CF17",
@@ -191,7 +205,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PET-CF17/BBL/X1/BambuStudio/Fiberon PET-CF17 @BBL X1.json",
-      "filename": "Fiberon PET-CF17 @BBL X1.json"
+      "filename": "Fiberon PET-CF17 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PET-CF17",
@@ -199,7 +214,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PET-CF17/BBL/X1/Orcaslicer/Fiberon PET-CF17 @BBL X1.json",
-      "filename": "Fiberon PET-CF17 @BBL X1.json"
+      "filename": "Fiberon PET-CF17 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-ESD",
@@ -207,7 +223,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PETG-ESD/BBL/H2D/BambuStudio/Fiberon PETG-ESD @BBL H2D.json",
-      "filename": "Fiberon PETG-ESD @BBL H2D.json"
+      "filename": "Fiberon PETG-ESD @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-ESD",
@@ -215,7 +232,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PETG-ESD/BBL/X1/BambuStudio/Fiberon PETG-ESD @BBL X1.json",
-      "filename": "Fiberon PETG-ESD @BBL X1.json"
+      "filename": "Fiberon PETG-ESD @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-ESD",
@@ -223,7 +241,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PETG-ESD/BBL/X1/Orcaslicer/Fiberon PETG-ESD @BBL X1.json",
-      "filename": "Fiberon PETG-ESD @BBL X1.json"
+      "filename": "Fiberon PETG-ESD @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-rCF08",
@@ -231,7 +250,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PETG-rCF08/BBL/H2D/BambuStudio/Fiberon PETG-rCF08 @BBL H2D.json",
-      "filename": "Fiberon PETG-rCF08 @BBL H2D.json"
+      "filename": "Fiberon PETG-rCF08 @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-rCF08",
@@ -239,7 +259,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Fiberon PETG-rCF08/BBL/X1/BambuStudio/Fiberon PETG-rCF08 @BBL X1.json",
-      "filename": "Fiberon PETG-rCF08 @BBL X1.json"
+      "filename": "Fiberon PETG-rCF08 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Fiberon PETG-rCF08",
@@ -247,7 +268,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Fiberon PETG-rCF08/BBL/X1/Orcaslicer/Fiberon PETG-rCF08 @BBL X1.json",
-      "filename": "Fiberon PETG-rCF08 @BBL X1.json"
+      "filename": "Fiberon PETG-rCF08 @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -255,7 +277,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/A1/BambuStudio/Panchroma CoPE @BBL A1.json",
-      "filename": "Panchroma CoPE @BBL A1.json"
+      "filename": "Panchroma CoPE @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -263,7 +286,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma CoPE/BBL/A1/Orcaslicer/Panchroma CoPE @BBL A1.json",
-      "filename": "Panchroma CoPE @BBL A1.json"
+      "filename": "Panchroma CoPE @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -271,7 +295,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/A1M/BambuStudio/Panchroma CoPE @BBL A1M.json",
-      "filename": "Panchroma CoPE @BBL A1M.json"
+      "filename": "Panchroma CoPE @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -279,7 +304,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma CoPE/BBL/A1M/Orcaslicer/Panchroma CoPE @BBL A1M.json",
-      "filename": "Panchroma CoPE @BBL A1M.json"
+      "filename": "Panchroma CoPE @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -287,7 +313,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/H2D/BambuStudio/Panchroma CoPE @BBL H2D.json",
-      "filename": "Panchroma CoPE @BBL H2D.json"
+      "filename": "Panchroma CoPE @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -295,7 +322,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/P1P/BambuStudio/Panchroma CoPE @BBL P1P.json",
-      "filename": "Panchroma CoPE @BBL P1P.json"
+      "filename": "Panchroma CoPE @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -303,7 +331,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma CoPE/BBL/P1P/Orcaslicer/Panchroma CoPE @BBL P1P.json",
-      "filename": "Panchroma CoPE @BBL P1P.json"
+      "filename": "Panchroma CoPE @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -311,7 +340,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/P2S/BambuStudio/Panchroma CoPE @BBL P2S.json",
-      "filename": "Panchroma CoPE @BBL P2S.json"
+      "filename": "Panchroma CoPE @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -319,7 +349,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/X1/BambuStudio/Panchroma CoPE @BBL X1.json",
-      "filename": "Panchroma CoPE @BBL X1.json"
+      "filename": "Panchroma CoPE @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -327,7 +358,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma CoPE/BBL/X1/Orcaslicer/Panchroma CoPE @BBL X1.json",
-      "filename": "Panchroma CoPE @BBL X1.json"
+      "filename": "Panchroma CoPE @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -335,7 +367,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma CoPE/Elegoo/CC2/ElegooSlicer/Panchroma CoPE @Elegoo CC2.json",
-      "filename": "Panchroma CoPE @Elegoo CC2.json"
+      "filename": "Panchroma CoPE @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -343,7 +376,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma CoPE/Snapmaker/U1/OrcaSlicer/Panchroma CoPE @Snapmaker U1.json",
-      "filename": "Panchroma CoPE @Snapmaker U1.json"
+      "filename": "Panchroma CoPE @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA",
@@ -351,7 +385,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA/BBL/H2S/BambuStudio/Panchroma PLA @BBL H2S.json",
-      "filename": "Panchroma PLA @BBL H2S.json"
+      "filename": "Panchroma PLA @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA",
@@ -359,7 +394,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA/BBL/P2S/BambuStudio/Panchroma PLA @BBL P2S.json",
-      "filename": "Panchroma PLA @BBL P2S.json"
+      "filename": "Panchroma PLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA",
@@ -367,7 +403,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA/Elegoo/CC2/ElegooSlicer/Panchroma PLA @Elegoo CC2.json",
-      "filename": "Panchroma PLA @Elegoo CC2.json"
+      "filename": "Panchroma PLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -375,7 +412,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/A1/BambuStudio/Panchroma PLA Celestial @BBL A1.json",
-      "filename": "Panchroma PLA Celestial @BBL A1.json"
+      "filename": "Panchroma PLA Celestial @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -383,7 +421,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Celestial/BBL/A1/Orcaslicer/Panchroma PLA Celestial @BBL A1.json",
-      "filename": "Panchroma PLA Celestial @BBL A1.json"
+      "filename": "Panchroma PLA Celestial @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -391,7 +430,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/A1M/BambuStudio/Panchroma PLA Celestial @BBL A1M.json",
-      "filename": "Panchroma PLA Celestial @BBL A1M.json"
+      "filename": "Panchroma PLA Celestial @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -399,7 +439,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Celestial/BBL/A1M/Orcaslicer/Panchroma PLA Celestial @BBL A1M.json",
-      "filename": "Panchroma PLA Celestial @BBL A1M.json"
+      "filename": "Panchroma PLA Celestial @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -407,7 +448,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/H2D/BambuStudio/Panchroma PLA Celestial @BBL H2D.json",
-      "filename": "Panchroma PLA Celestial @BBL H2D.json"
+      "filename": "Panchroma PLA Celestial @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -415,7 +457,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/H2S/BambuStudio/Panchroma PLA Celestial @BBL H2S.json",
-      "filename": "Panchroma PLA Celestial @BBL H2S.json"
+      "filename": "Panchroma PLA Celestial @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -423,7 +466,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/P1P/BambuStudio/Panchroma PLA Celestial @BBL P1P.json",
-      "filename": "Panchroma PLA Celestial @BBL P1P.json"
+      "filename": "Panchroma PLA Celestial @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -431,7 +475,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Celestial/BBL/P1P/Orcaslicer/Panchroma PLA Celestial @BBL P1P.json",
-      "filename": "Panchroma PLA Celestial @BBL P1P.json"
+      "filename": "Panchroma PLA Celestial @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -439,7 +484,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/P2S/BambuStudio/Panchroma PLA Celestial @BBL P2S.json",
-      "filename": "Panchroma PLA Celestial @BBL P2S.json"
+      "filename": "Panchroma PLA Celestial @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -447,7 +493,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/X1/BambuStudio/Panchroma PLA Celestial @BBL X1.json",
-      "filename": "Panchroma PLA Celestial @BBL X1.json"
+      "filename": "Panchroma PLA Celestial @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -455,7 +502,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Celestial/BBL/X1/Orcaslicer/Panchroma PLA Celestial @BBL X1.json",
-      "filename": "Panchroma PLA Celestial @BBL X1.json"
+      "filename": "Panchroma PLA Celestial @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -463,7 +511,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Celestial/Elegoo/CC2/ElegooSlicer/Panchroma PLA Celestial @Elegoo CC2.json",
-      "filename": "Panchroma PLA Celestial @Elegoo CC2.json"
+      "filename": "Panchroma PLA Celestial @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -471,7 +520,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Celestial/Snapmaker/U1/OrcaSlicer/Panchroma PLA Celestial @Snapmaker U1.json",
-      "filename": "Panchroma PLA Celestial @Snapmaker U1.json"
+      "filename": "Panchroma PLA Celestial @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -479,7 +529,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/A1/BambuStudio/Panchroma PLA Galaxy @BBL A1.json",
-      "filename": "Panchroma PLA Galaxy @BBL A1.json"
+      "filename": "Panchroma PLA Galaxy @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -487,7 +538,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Galaxy/BBL/A1/Orcaslicer/Panchroma PLA Galaxy @BBL A1.json",
-      "filename": "Panchroma PLA Galaxy @BBL A1.json"
+      "filename": "Panchroma PLA Galaxy @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -495,7 +547,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/A1M/BambuStudio/Panchroma PLA Galaxy @BBL A1M.json",
-      "filename": "Panchroma PLA Galaxy @BBL A1M.json"
+      "filename": "Panchroma PLA Galaxy @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -503,7 +556,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Galaxy/BBL/A1M/Orcaslicer/Panchroma PLA Galaxy @BBL A1M.json",
-      "filename": "Panchroma PLA Galaxy @BBL A1M.json"
+      "filename": "Panchroma PLA Galaxy @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -511,7 +565,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/H2D/BambuStudio/Panchroma PLA Galaxy @BBL H2D.json",
-      "filename": "Panchroma PLA Galaxy @BBL H2D.json"
+      "filename": "Panchroma PLA Galaxy @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -519,7 +574,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/H2S/BambuStudio/Panchroma PLA Galaxy @BBL H2S.json",
-      "filename": "Panchroma PLA Galaxy @BBL H2S.json"
+      "filename": "Panchroma PLA Galaxy @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -527,7 +583,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/P1P/BambuStudio/Panchroma PLA Galaxy @BBL P1P.json",
-      "filename": "Panchroma PLA Galaxy @BBL P1P.json"
+      "filename": "Panchroma PLA Galaxy @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -535,7 +592,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Galaxy/BBL/P1P/Orcaslicer/Panchroma PLA Galaxy @BBL P1P.json",
-      "filename": "Panchroma PLA Galaxy @BBL P1P.json"
+      "filename": "Panchroma PLA Galaxy @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -543,7 +601,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/P2S/BambuStudio/Panchroma PLA Galaxy @BBL P2S.json",
-      "filename": "Panchroma PLA Galaxy @BBL P2S.json"
+      "filename": "Panchroma PLA Galaxy @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -551,7 +610,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/X1/BambuStudio/Panchroma PLA Galaxy @BBL X1.json",
-      "filename": "Panchroma PLA Galaxy @BBL X1.json"
+      "filename": "Panchroma PLA Galaxy @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -559,7 +619,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Galaxy/BBL/X1/Orcaslicer/Panchroma PLA Galaxy @BBL X1.json",
-      "filename": "Panchroma PLA Galaxy @BBL X1.json"
+      "filename": "Panchroma PLA Galaxy @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -567,7 +628,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Galaxy/Elegoo/CC2/ElegooSlicer/Panchroma PLA Galaxy @Elegoo CC2.json",
-      "filename": "Panchroma PLA Galaxy @Elegoo CC2.json"
+      "filename": "Panchroma PLA Galaxy @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -575,7 +637,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Galaxy/Snapmaker/U1/OrcaSlicer/Panchroma PLA Galaxy @Snapmaker U1.json",
-      "filename": "Panchroma PLA Galaxy @Snapmaker U1.json"
+      "filename": "Panchroma PLA Galaxy @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -583,7 +646,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/A1/BambuStudio/Panchroma PLA Glow @BBL A1.json",
-      "filename": "Panchroma PLA Glow @BBL A1.json"
+      "filename": "Panchroma PLA Glow @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -591,7 +655,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Glow/BBL/A1/Orcaslicer/Panchroma PLA Glow @BBL A1.json",
-      "filename": "Panchroma PLA Glow @BBL A1.json"
+      "filename": "Panchroma PLA Glow @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -599,7 +664,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/A1M/BambuStudio/Panchroma PLA Glow @BBL A1M.json",
-      "filename": "Panchroma PLA Glow @BBL A1M.json"
+      "filename": "Panchroma PLA Glow @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -607,7 +673,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Glow/BBL/A1M/Orcaslicer/Panchroma PLA Glow @BBL A1M.json",
-      "filename": "Panchroma PLA Glow @BBL A1M.json"
+      "filename": "Panchroma PLA Glow @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -615,7 +682,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/H2D/BambuStudio/Panchroma PLA Glow @BBL H2D.json",
-      "filename": "Panchroma PLA Glow @BBL H2D.json"
+      "filename": "Panchroma PLA Glow @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -623,7 +691,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/H2S/BambuStudio/Panchroma PLA Glow @BBL H2S.json",
-      "filename": "Panchroma PLA Glow @BBL H2S.json"
+      "filename": "Panchroma PLA Glow @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -631,7 +700,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/P1P/BambuStudio/Panchroma PLA Glow @BBL P1P.json",
-      "filename": "Panchroma PLA Glow @BBL P1P.json"
+      "filename": "Panchroma PLA Glow @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -639,7 +709,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Glow/BBL/P1P/Orcaslicer/Panchroma PLA Glow @BBL P1P.json",
-      "filename": "Panchroma PLA Glow @BBL P1P.json"
+      "filename": "Panchroma PLA Glow @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -647,7 +718,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/P2S/BambuStudio/Panchroma PLA Glow @BBL P2S.json",
-      "filename": "Panchroma PLA Glow @BBL P2S.json"
+      "filename": "Panchroma PLA Glow @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -655,7 +727,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/X1/BambuStudio/Panchroma PLA Glow @BBL X1.json",
-      "filename": "Panchroma PLA Glow @BBL X1.json"
+      "filename": "Panchroma PLA Glow @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -663,7 +736,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Glow/BBL/X1/Orcaslicer/Panchroma PLA Glow @BBL X1.json",
-      "filename": "Panchroma PLA Glow @BBL X1.json"
+      "filename": "Panchroma PLA Glow @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -671,7 +745,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Glow/Elegoo/CC2/ElegooSlicer/Panchroma PLA Glow @Elegoo CC2.json",
-      "filename": "Panchroma PLA Glow @Elegoo CC2.json"
+      "filename": "Panchroma PLA Glow @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -679,7 +754,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Glow/Snapmaker/U1/OrcaSlicer/Panchroma PLA Glow @Snapmaker U1.json",
-      "filename": "Panchroma PLA Glow @Snapmaker U1.json"
+      "filename": "Panchroma PLA Glow @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -687,7 +763,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/A1/BambuStudio/Panchroma PLA Luminous @BBL A1.json",
-      "filename": "Panchroma PLA Luminous @BBL A1.json"
+      "filename": "Panchroma PLA Luminous @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -695,7 +772,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Luminous/BBL/A1/Orcaslicer/Panchroma PLA Luminous @BBL A1.json",
-      "filename": "Panchroma PLA Luminous @BBL A1.json"
+      "filename": "Panchroma PLA Luminous @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -703,7 +781,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/A1M/BambuStudio/Panchroma PLA Luminous @BBL A1M.json",
-      "filename": "Panchroma PLA Luminous @BBL A1M.json"
+      "filename": "Panchroma PLA Luminous @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -711,7 +790,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Luminous/BBL/A1M/Orcaslicer/Panchroma PLA Luminous @BBL A1M.json",
-      "filename": "Panchroma PLA Luminous @BBL A1M.json"
+      "filename": "Panchroma PLA Luminous @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -719,7 +799,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/H2D/BambuStudio/Panchroma PLA Luminous @BBL H2D.json",
-      "filename": "Panchroma PLA Luminous @BBL H2D.json"
+      "filename": "Panchroma PLA Luminous @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -727,7 +808,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/H2S/BambuStudio/Panchroma PLA Luminous @BBL H2S.json",
-      "filename": "Panchroma PLA Luminous @BBL H2S.json"
+      "filename": "Panchroma PLA Luminous @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -735,7 +817,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/P1P/BambuStudio/Panchroma PLA Luminous @BBL P1P.json",
-      "filename": "Panchroma PLA Luminous @BBL P1P.json"
+      "filename": "Panchroma PLA Luminous @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -743,7 +826,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Luminous/BBL/P1P/Orcaslicer/Panchroma PLA Luminous @BBL P1P.json",
-      "filename": "Panchroma PLA Luminous @BBL P1P.json"
+      "filename": "Panchroma PLA Luminous @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -751,7 +835,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/P2S/BambuStudio/Panchroma PLA Luminous @BBL P2S.json",
-      "filename": "Panchroma PLA Luminous @BBL P2S.json"
+      "filename": "Panchroma PLA Luminous @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -759,7 +844,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/X1/BambuStudio/Panchroma PLA Luminous @BBL X1.json",
-      "filename": "Panchroma PLA Luminous @BBL X1.json"
+      "filename": "Panchroma PLA Luminous @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -767,7 +853,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Luminous/BBL/X1/Orcaslicer/Panchroma PLA Luminous @BBL X1.json",
-      "filename": "Panchroma PLA Luminous @BBL X1.json"
+      "filename": "Panchroma PLA Luminous @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -775,7 +862,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Luminous/Elegoo/CC2/ElegooSlicer/Panchroma PLA Luminous @Elegoo CC2.json",
-      "filename": "Panchroma PLA Luminous @Elegoo CC2.json"
+      "filename": "Panchroma PLA Luminous @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -783,7 +871,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Luminous/Snapmaker/U1/OrcaSlicer/Panchroma PLA Luminous @Snapmaker U1.json",
-      "filename": "Panchroma PLA Luminous @Snapmaker U1.json"
+      "filename": "Panchroma PLA Luminous @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -791,7 +880,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/A1/BambuStudio/Panchroma PLA Marble @BBL A1.json",
-      "filename": "Panchroma PLA Marble @BBL A1.json"
+      "filename": "Panchroma PLA Marble @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -799,7 +889,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Marble/BBL/A1/Orcaslicer/Panchroma PLA Marble @BBL A1.json",
-      "filename": "Panchroma PLA Marble @BBL A1.json"
+      "filename": "Panchroma PLA Marble @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -807,7 +898,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/A1M/BambuStudio/Panchroma PLA Marble @BBL A1M.json",
-      "filename": "Panchroma PLA Marble @BBL A1M.json"
+      "filename": "Panchroma PLA Marble @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -815,7 +907,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Marble/BBL/A1M/Orcaslicer/Panchroma PLA Marble @BBL A1M.json",
-      "filename": "Panchroma PLA Marble @BBL A1M.json"
+      "filename": "Panchroma PLA Marble @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -823,7 +916,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/P1P/BambuStudio/Panchroma PLA Marble @BBL P1P.json",
-      "filename": "Panchroma PLA Marble @BBL P1P.json"
+      "filename": "Panchroma PLA Marble @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -831,7 +925,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Marble/BBL/P1P/Orcaslicer/Panchroma PLA Marble @BBL P1P.json",
-      "filename": "Panchroma PLA Marble @BBL P1P.json"
+      "filename": "Panchroma PLA Marble @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -839,7 +934,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/P2S/BambuStudio/Panchroma PLA Marble @BBL P2S.json",
-      "filename": "Panchroma PLA Marble @BBL P2S.json"
+      "filename": "Panchroma PLA Marble @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -847,7 +943,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/X1/BambuStudio/Panchroma PLA Marble @BBL X1.json",
-      "filename": "Panchroma PLA Marble @BBL X1.json"
+      "filename": "Panchroma PLA Marble @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -855,7 +952,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Marble/BBL/X1/Orcaslicer/Panchroma PLA Marble @BBL X1.json",
-      "filename": "Panchroma PLA Marble @BBL X1.json"
+      "filename": "Panchroma PLA Marble @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -863,7 +961,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Marble/Elegoo/CC2/ElegooSlicer/Panchroma PLA Marble @Elegoo CC2.json",
-      "filename": "Panchroma PLA Marble @Elegoo CC2.json"
+      "filename": "Panchroma PLA Marble @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -871,7 +970,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Marble/Snapmaker/U1/OrcaSlicer/Panchroma PLA Marble @Snapmaker U1.json",
-      "filename": "Panchroma PLA Marble @Snapmaker U1.json"
+      "filename": "Panchroma PLA Marble @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -879,7 +979,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/A1/BambuStudio/Panchroma PLA Matte @BBL A1.json",
-      "filename": "Panchroma PLA Matte @BBL A1.json"
+      "filename": "Panchroma PLA Matte @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -887,7 +988,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Matte/BBL/A1/Orcaslicer/Panchroma PLA Matte @BBL A1.json",
-      "filename": "Panchroma PLA Matte @BBL A1.json"
+      "filename": "Panchroma PLA Matte @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -895,7 +997,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/A1M/BambuStudio/Panchroma PLA Matte @BBL A1M.json",
-      "filename": "Panchroma PLA Matte @BBL A1M.json"
+      "filename": "Panchroma PLA Matte @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -903,7 +1006,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Matte/BBL/A1M/Orcaslicer/Panchroma PLA Matte @BBL A1M.json",
-      "filename": "Panchroma PLA Matte @BBL A1M.json"
+      "filename": "Panchroma PLA Matte @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -911,7 +1015,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/P1P/BambuStudio/Panchroma PLA Matte @BBL P1P.json",
-      "filename": "Panchroma PLA Matte @BBL P1P.json"
+      "filename": "Panchroma PLA Matte @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -919,7 +1024,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Matte/BBL/P1P/Orcaslicer/Panchroma PLA Matte @BBL P1P.json",
-      "filename": "Panchroma PLA Matte @BBL P1P.json"
+      "filename": "Panchroma PLA Matte @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -927,7 +1033,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/P2S/BambuStudio/Panchroma PLA Matte @BBL P2S.json",
-      "filename": "Panchroma PLA Matte @BBL P2S.json"
+      "filename": "Panchroma PLA Matte @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -935,7 +1042,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/X1/BambuStudio/Panchroma PLA Matte @BBL X1.json",
-      "filename": "Panchroma PLA Matte @BBL X1.json"
+      "filename": "Panchroma PLA Matte @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -943,7 +1051,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Matte/BBL/X1/Orcaslicer/Panchroma PLA Matte @BBL X1.json",
-      "filename": "Panchroma PLA Matte @BBL X1.json"
+      "filename": "Panchroma PLA Matte @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -951,7 +1060,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Matte/Elegoo/CC2/ElegooSlicer/Panchroma PLA Matte @Elegoo CC2.json",
-      "filename": "Panchroma PLA Matte @Elegoo CC2.json"
+      "filename": "Panchroma PLA Matte @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -959,7 +1069,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Matte/Snapmaker/U1/OrcaSlicer/Panchroma PLA Matte @Snapmaker U1.json",
-      "filename": "Panchroma PLA Matte @Snapmaker U1.json"
+      "filename": "Panchroma PLA Matte @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -967,7 +1078,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/A1/BambuStudio/Panchroma PLA Metallic @BBL A1.json",
-      "filename": "Panchroma PLA Metallic @BBL A1.json"
+      "filename": "Panchroma PLA Metallic @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -975,7 +1087,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Metallic/BBL/A1/Orcaslicer/Panchroma PLA Metallic @BBL A1.json",
-      "filename": "Panchroma PLA Metallic @BBL A1.json"
+      "filename": "Panchroma PLA Metallic @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -983,7 +1096,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/A1M/BambuStudio/Panchroma PLA Metallic @BBL A1M.json",
-      "filename": "Panchroma PLA Metallic @BBL A1M.json"
+      "filename": "Panchroma PLA Metallic @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -991,7 +1105,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Metallic/BBL/A1M/Orcaslicer/Panchroma PLA Metallic @BBL A1M.json",
-      "filename": "Panchroma PLA Metallic @BBL A1M.json"
+      "filename": "Panchroma PLA Metallic @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -999,7 +1114,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/H2D/BambuStudio/Panchroma PLA Metallic @BBL H2D.json",
-      "filename": "Panchroma PLA Metallic @BBL H2D.json"
+      "filename": "Panchroma PLA Metallic @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1007,7 +1123,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/H2S/BambuStudio/Panchroma PLA Metallic @BBL H2S.json",
-      "filename": "Panchroma PLA Metallic @BBL H2S.json"
+      "filename": "Panchroma PLA Metallic @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1015,7 +1132,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/P1P/BambuStudio/Panchroma PLA Metallic @BBL P1P.json",
-      "filename": "Panchroma PLA Metallic @BBL P1P.json"
+      "filename": "Panchroma PLA Metallic @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1023,7 +1141,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Metallic/BBL/P1P/Orcaslicer/Panchroma PLA Metallic @BBL P1P.json",
-      "filename": "Panchroma PLA Metallic @BBL P1P.json"
+      "filename": "Panchroma PLA Metallic @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1031,7 +1150,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/P2S/BambuStudio/Panchroma PLA Metallic @BBL P2S.json",
-      "filename": "Panchroma PLA Metallic @BBL P2S.json"
+      "filename": "Panchroma PLA Metallic @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1039,7 +1159,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/X1/BambuStudio/Panchroma PLA Metallic @BBL X1.json",
-      "filename": "Panchroma PLA Metallic @BBL X1.json"
+      "filename": "Panchroma PLA Metallic @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1047,7 +1168,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Metallic/BBL/X1/Orcaslicer/Panchroma PLA Metallic @BBL X1.json",
-      "filename": "Panchroma PLA Metallic @BBL X1.json"
+      "filename": "Panchroma PLA Metallic @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1055,7 +1177,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Metallic/Elegoo/CC2/ElegooSlicer/Panchroma PLA Metallic @Elegoo CC2.json",
-      "filename": "Panchroma PLA Metallic @Elegoo CC2.json"
+      "filename": "Panchroma PLA Metallic @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1063,7 +1186,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Metallic/Snapmaker/U1/OrcaSlicer/Panchroma PLA Metallic @Snapmaker U1.json",
-      "filename": "Panchroma PLA Metallic @Snapmaker U1.json"
+      "filename": "Panchroma PLA Metallic @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1071,7 +1195,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/A1/BambuStudio/Panchroma PLA Neon @BBL A1.json",
-      "filename": "Panchroma PLA Neon @BBL A1.json"
+      "filename": "Panchroma PLA Neon @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1079,7 +1204,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Neon/BBL/A1/Orcaslicer/Panchroma PLA Neon @BBL A1.json",
-      "filename": "Panchroma PLA Neon @BBL A1.json"
+      "filename": "Panchroma PLA Neon @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1087,7 +1213,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/A1M/BambuStudio/Panchroma PLA Neon @BBL A1M.json",
-      "filename": "Panchroma PLA Neon @BBL A1M.json"
+      "filename": "Panchroma PLA Neon @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1095,7 +1222,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Neon/BBL/A1M/Orcaslicer/Panchroma PLA Neon @BBL A1M.json",
-      "filename": "Panchroma PLA Neon @BBL A1M.json"
+      "filename": "Panchroma PLA Neon @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1103,7 +1231,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/H2D/BambuStudio/Panchroma PLA Neon @BBL H2D.json",
-      "filename": "Panchroma PLA Neon @BBL H2D.json"
+      "filename": "Panchroma PLA Neon @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1111,7 +1240,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/H2S/BambuStudio/Panchroma PLA Neon @BBL H2S.json",
-      "filename": "Panchroma PLA Neon @BBL H2S.json"
+      "filename": "Panchroma PLA Neon @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1119,7 +1249,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/P1P/BambuStudio/Panchroma PLA Neon @BBL P1P.json",
-      "filename": "Panchroma PLA Neon @BBL P1P.json"
+      "filename": "Panchroma PLA Neon @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1127,7 +1258,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Neon/BBL/P1P/Orcaslicer/Panchroma PLA Neon @BBL P1P.json",
-      "filename": "Panchroma PLA Neon @BBL P1P.json"
+      "filename": "Panchroma PLA Neon @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1135,7 +1267,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/P2S/BambuStudio/Panchroma PLA Neon @BBL P2S.json",
-      "filename": "Panchroma PLA Neon @BBL P2S.json"
+      "filename": "Panchroma PLA Neon @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1143,7 +1276,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/X1/BambuStudio/Panchroma PLA Neon @BBL X1.json",
-      "filename": "Panchroma PLA Neon @BBL X1.json"
+      "filename": "Panchroma PLA Neon @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1151,7 +1285,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Neon/BBL/X1/Orcaslicer/Panchroma PLA Neon @BBL X1.json",
-      "filename": "Panchroma PLA Neon @BBL X1.json"
+      "filename": "Panchroma PLA Neon @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1159,7 +1294,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Neon/Elegoo/CC2/ElegooSlicer/Panchroma PLA Neon @Elegoo CC2.json",
-      "filename": "Panchroma PLA Neon @Elegoo CC2.json"
+      "filename": "Panchroma PLA Neon @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1167,7 +1303,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Neon/Snapmaker/U1/OrcaSlicer/Panchroma PLA Neon @Snapmaker U1.json",
-      "filename": "Panchroma PLA Neon @Snapmaker U1.json"
+      "filename": "Panchroma PLA Neon @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1175,7 +1312,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/A1/BambuStudio/Panchroma PLA Satin @BBL A1.json",
-      "filename": "Panchroma PLA Satin @BBL A1.json"
+      "filename": "Panchroma PLA Satin @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1183,7 +1321,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Satin/BBL/A1/Orcaslicer/Panchroma PLA Satin @BBL A1.json",
-      "filename": "Panchroma PLA Satin @BBL A1.json"
+      "filename": "Panchroma PLA Satin @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1191,7 +1330,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/A1M/BambuStudio/Panchroma PLA Satin @BBL A1M.json",
-      "filename": "Panchroma PLA Satin @BBL A1M.json"
+      "filename": "Panchroma PLA Satin @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1199,7 +1339,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Satin/BBL/A1M/Orcaslicer/Panchroma PLA Satin @BBL A1M.json",
-      "filename": "Panchroma PLA Satin @BBL A1M.json"
+      "filename": "Panchroma PLA Satin @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1207,7 +1348,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/H2S/BambuStudio/Panchroma PLA Satin @BBL H2S.json",
-      "filename": "Panchroma PLA Satin @BBL H2S.json"
+      "filename": "Panchroma PLA Satin @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1215,7 +1357,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/P1P/BambuStudio/Panchroma PLA Satin @BBL P1P.json",
-      "filename": "Panchroma PLA Satin @BBL P1P.json"
+      "filename": "Panchroma PLA Satin @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1223,7 +1366,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Satin/BBL/P1P/Orcaslicer/Panchroma PLA Satin @BBL P1P.json",
-      "filename": "Panchroma PLA Satin @BBL P1P.json"
+      "filename": "Panchroma PLA Satin @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1231,7 +1375,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/P2S/BambuStudio/Panchroma PLA Satin @BBL P2S.json",
-      "filename": "Panchroma PLA Satin @BBL P2S.json"
+      "filename": "Panchroma PLA Satin @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1239,7 +1384,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/X1/BambuStudio/Panchroma PLA Satin @BBL X1.json",
-      "filename": "Panchroma PLA Satin @BBL X1.json"
+      "filename": "Panchroma PLA Satin @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1247,7 +1393,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Satin/BBL/X1/Orcaslicer/Panchroma PLA Satin @BBL X1.json",
-      "filename": "Panchroma PLA Satin @BBL X1.json"
+      "filename": "Panchroma PLA Satin @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1255,7 +1402,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Satin/Elegoo/CC2/ElegooSlicer/Panchroma PLA Satin @Elegoo CC2.json",
-      "filename": "Panchroma PLA Satin @Elegoo CC2.json"
+      "filename": "Panchroma PLA Satin @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1263,7 +1411,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Satin/Snapmaker/U1/OrcaSlicer/Panchroma PLA Satin @Snapmaker U1.json",
-      "filename": "Panchroma PLA Satin @Snapmaker U1.json"
+      "filename": "Panchroma PLA Satin @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1271,7 +1420,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/A1/BambuStudio/Panchroma PLA Silk @BBL A1.json",
-      "filename": "Panchroma PLA Silk @BBL A1.json"
+      "filename": "Panchroma PLA Silk @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1279,7 +1429,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Silk/BBL/A1/Orcaslicer/Panchroma PLA Silk @BBL A1.json",
-      "filename": "Panchroma PLA Silk @BBL A1.json"
+      "filename": "Panchroma PLA Silk @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1287,7 +1438,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/A1M/BambuStudio/Panchroma PLA Silk @BBL A1M.json",
-      "filename": "Panchroma PLA Silk @BBL A1M.json"
+      "filename": "Panchroma PLA Silk @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1295,7 +1447,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Silk/BBL/A1M/Orcaslicer/Panchroma PLA Silk @BBL A1M.json",
-      "filename": "Panchroma PLA Silk @BBL A1M.json"
+      "filename": "Panchroma PLA Silk @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1303,7 +1456,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/H2D/BambuStudio/Panchroma PLA Silk @BBL H2D.json",
-      "filename": "Panchroma PLA Silk @BBL H2D.json"
+      "filename": "Panchroma PLA Silk @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1311,7 +1465,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/P1P/BambuStudio/Panchroma PLA Silk @BBL P1P.json",
-      "filename": "Panchroma PLA Silk @BBL P1P.json"
+      "filename": "Panchroma PLA Silk @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1319,7 +1474,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Silk/BBL/P1P/Orcaslicer/Panchroma PLA Silk @BBL P1P.json",
-      "filename": "Panchroma PLA Silk @BBL P1P.json"
+      "filename": "Panchroma PLA Silk @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1327,7 +1483,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/P2S/BambuStudio/Panchroma PLA Silk @BBL P2S.json",
-      "filename": "Panchroma PLA Silk @BBL P2S.json"
+      "filename": "Panchroma PLA Silk @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1335,7 +1492,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/X1/BambuStudio/Panchroma PLA Silk @BBL X1.json",
-      "filename": "Panchroma PLA Silk @BBL X1.json"
+      "filename": "Panchroma PLA Silk @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1343,7 +1501,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Silk/BBL/X1/Orcaslicer/Panchroma PLA Silk @BBL X1.json",
-      "filename": "Panchroma PLA Silk @BBL X1.json"
+      "filename": "Panchroma PLA Silk @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1351,7 +1510,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Silk/Elegoo/CC2/ElegooSlicer/Panchroma PLA Silk @Elegoo CC2.json",
-      "filename": "Panchroma PLA Silk @Elegoo CC2.json"
+      "filename": "Panchroma PLA Silk @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1359,7 +1519,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Silk/Snapmaker/U1/OrcaSlicer/Panchroma PLA Silk @Snapmaker U1.json",
-      "filename": "Panchroma PLA Silk @Snapmaker U1.json"
+      "filename": "Panchroma PLA Silk @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1367,7 +1528,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/A1/BambuStudio/Panchroma PLA Starlight @BBL A1.json",
-      "filename": "Panchroma PLA Starlight @BBL A1.json"
+      "filename": "Panchroma PLA Starlight @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1375,7 +1537,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Starlight/BBL/A1/Orcaslicer/Panchroma PLA Starlight @BBL A1.json",
-      "filename": "Panchroma PLA Starlight @BBL A1.json"
+      "filename": "Panchroma PLA Starlight @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1383,7 +1546,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/A1M/BambuStudio/Panchroma PLA Starlight @BBL A1M.json",
-      "filename": "Panchroma PLA Starlight @BBL A1M.json"
+      "filename": "Panchroma PLA Starlight @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1391,7 +1555,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Starlight/BBL/A1M/Orcaslicer/Panchroma PLA Starlight @BBL A1M.json",
-      "filename": "Panchroma PLA Starlight @BBL A1M.json"
+      "filename": "Panchroma PLA Starlight @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1399,7 +1564,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/H2D/BambuStudio/Panchroma PLA Starlight @BBL H2D.json",
-      "filename": "Panchroma PLA Starlight @BBL H2D.json"
+      "filename": "Panchroma PLA Starlight @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1407,7 +1573,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/H2S/BambuStudio/Panchroma PLA Starlight @BBL H2S.json",
-      "filename": "Panchroma PLA Starlight @BBL H2S.json"
+      "filename": "Panchroma PLA Starlight @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1415,7 +1582,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/P1P/BambuStudio/Panchroma PLA Starlight @BBL P1P.json",
-      "filename": "Panchroma PLA Starlight @BBL P1P.json"
+      "filename": "Panchroma PLA Starlight @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1423,7 +1591,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Starlight/BBL/P1P/Orcaslicer/Panchroma PLA Starlight @BBL P1P.json",
-      "filename": "Panchroma PLA Starlight @BBL P1P.json"
+      "filename": "Panchroma PLA Starlight @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1431,7 +1600,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/P2S/BambuStudio/Panchroma PLA Starlight @BBL P2S.json",
-      "filename": "Panchroma PLA Starlight @BBL P2S.json"
+      "filename": "Panchroma PLA Starlight @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1439,7 +1609,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/X1/BambuStudio/Panchroma PLA Starlight @BBL X1.json",
-      "filename": "Panchroma PLA Starlight @BBL X1.json"
+      "filename": "Panchroma PLA Starlight @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1447,7 +1618,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Starlight/BBL/X1/Orcaslicer/Panchroma PLA Starlight @BBL X1.json",
-      "filename": "Panchroma PLA Starlight @BBL X1.json"
+      "filename": "Panchroma PLA Starlight @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1455,7 +1627,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Starlight/Elegoo/CC2/ElegooSlicer/Panchroma PLA Starlight @Elegoo CC2.json",
-      "filename": "Panchroma PLA Starlight @Elegoo CC2.json"
+      "filename": "Panchroma PLA Starlight @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1463,7 +1636,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Starlight/Snapmaker/U1/OrcaSlicer/Panchroma PLA Starlight @Snapmaker U1.json",
-      "filename": "Panchroma PLA Starlight @Snapmaker U1.json"
+      "filename": "Panchroma PLA Starlight @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1471,7 +1645,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/A1/BambuStudio/Panchroma PLA Translucent @BBL A1.json",
-      "filename": "Panchroma PLA Translucent @BBL A1.json"
+      "filename": "Panchroma PLA Translucent @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1479,7 +1654,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Translucent/BBL/A1/Orcaslicer/Panchroma PLA Translucent @BBL A1.json",
-      "filename": "Panchroma PLA Translucent @BBL A1.json"
+      "filename": "Panchroma PLA Translucent @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1487,7 +1663,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/A1M/BambuStudio/Panchroma PLA Translucent @BBL A1M.json",
-      "filename": "Panchroma PLA Translucent @BBL A1M.json"
+      "filename": "Panchroma PLA Translucent @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1495,7 +1672,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Translucent/BBL/A1M/Orcaslicer/Panchroma PLA Translucent @BBL A1M.json",
-      "filename": "Panchroma PLA Translucent @BBL A1M.json"
+      "filename": "Panchroma PLA Translucent @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1503,7 +1681,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/H2D/BambuStudio/Panchroma PLA Translucent @BBL H2D.json",
-      "filename": "Panchroma PLA Translucent @BBL H2D.json"
+      "filename": "Panchroma PLA Translucent @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1511,7 +1690,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/H2S/BambuStudio/Panchroma PLA Translucent @BBL H2S.json",
-      "filename": "Panchroma PLA Translucent @BBL H2S.json"
+      "filename": "Panchroma PLA Translucent @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1519,7 +1699,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/P1P/BambuStudio/Panchroma PLA Translucent @BBL P1P.json",
-      "filename": "Panchroma PLA Translucent @BBL P1P.json"
+      "filename": "Panchroma PLA Translucent @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1527,7 +1708,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Translucent/BBL/P1P/Orcaslicer/Panchroma PLA Translucent @BBL P1P.json",
-      "filename": "Panchroma PLA Translucent @BBL P1P.json"
+      "filename": "Panchroma PLA Translucent @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1535,7 +1717,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/P2S/BambuStudio/Panchroma PLA Translucent @BBL P2S.json",
-      "filename": "Panchroma PLA Translucent @BBL P2S.json"
+      "filename": "Panchroma PLA Translucent @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1543,7 +1726,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/X1/BambuStudio/Panchroma PLA Translucent @BBL X1.json",
-      "filename": "Panchroma PLA Translucent @BBL X1.json"
+      "filename": "Panchroma PLA Translucent @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1551,7 +1735,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA Translucent/BBL/X1/Orcaslicer/Panchroma PLA Translucent @BBL X1.json",
-      "filename": "Panchroma PLA Translucent @BBL X1.json"
+      "filename": "Panchroma PLA Translucent @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1559,7 +1744,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA Translucent/Elegoo/CC2/ElegooSlicer/Panchroma PLA Translucent @Elegoo CC2.json",
-      "filename": "Panchroma PLA Translucent @Elegoo CC2.json"
+      "filename": "Panchroma PLA Translucent @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1567,7 +1753,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA Translucent/Snapmaker/U1/OrcaSlicer/Panchroma PLA Translucent @Snapmaker U1.json",
-      "filename": "Panchroma PLA Translucent @Snapmaker U1.json"
+      "filename": "Panchroma PLA Translucent @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1575,7 +1762,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/A1/BambuStudio/Panchroma PLA UV Shift @BBL A1.json",
-      "filename": "Panchroma PLA UV Shift @BBL A1.json"
+      "filename": "Panchroma PLA UV Shift @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1583,7 +1771,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA UV Shift/BBL/A1/Orcaslicer/Panchroma PLA UV Shift @BBL A1.json",
-      "filename": "Panchroma PLA UV Shift @BBL A1.json"
+      "filename": "Panchroma PLA UV Shift @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1591,7 +1780,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/A1M/BambuStudio/Panchroma PLA UV Shift @BBL A1M.json",
-      "filename": "Panchroma PLA UV Shift @BBL A1M.json"
+      "filename": "Panchroma PLA UV Shift @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1599,7 +1789,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA UV Shift/BBL/A1M/Orcaslicer/Panchroma PLA UV Shift @BBL A1M.json",
-      "filename": "Panchroma PLA UV Shift @BBL A1M.json"
+      "filename": "Panchroma PLA UV Shift @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1607,7 +1798,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/H2D/BambuStudio/Panchroma PLA UV Shift @BBL H2D.json",
-      "filename": "Panchroma PLA UV Shift @BBL H2D.json"
+      "filename": "Panchroma PLA UV Shift @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1615,7 +1807,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/H2S/BambuStudio/Panchroma PLA UV Shift @BBL H2S.json",
-      "filename": "Panchroma PLA UV Shift @BBL H2S.json"
+      "filename": "Panchroma PLA UV Shift @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1623,7 +1816,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/P1P/BambuStudio/Panchroma PLA UV Shift @BBL P1P.json",
-      "filename": "Panchroma PLA UV Shift @BBL P1P.json"
+      "filename": "Panchroma PLA UV Shift @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1631,7 +1825,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA UV Shift/BBL/P1P/Orcaslicer/Panchroma PLA UV Shift @BBL P1P.json",
-      "filename": "Panchroma PLA UV Shift @BBL P1P.json"
+      "filename": "Panchroma PLA UV Shift @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1639,7 +1834,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/P2S/BambuStudio/Panchroma PLA UV Shift @BBL P2S.json",
-      "filename": "Panchroma PLA UV Shift @BBL P2S.json"
+      "filename": "Panchroma PLA UV Shift @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1647,7 +1843,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/X1/BambuStudio/Panchroma PLA UV Shift @BBL X1.json",
-      "filename": "Panchroma PLA UV Shift @BBL X1.json"
+      "filename": "Panchroma PLA UV Shift @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1655,7 +1852,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/Panchroma PLA UV Shift/BBL/X1/Orcaslicer/Panchroma PLA UV Shift @BBL X1.json",
-      "filename": "Panchroma PLA UV Shift @BBL X1.json"
+      "filename": "Panchroma PLA UV Shift @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1663,7 +1861,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Panchroma PLA UV Shift/Elegoo/CC2/ElegooSlicer/Panchroma PLA UV Shift @Elegoo CC2.json",
-      "filename": "Panchroma PLA UV Shift @Elegoo CC2.json"
+      "filename": "Panchroma PLA UV Shift @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1671,7 +1870,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Panchroma PLA UV Shift/Snapmaker/U1/OrcaSlicer/Panchroma PLA UV Shift @Snapmaker U1.json",
-      "filename": "Panchroma PLA UV Shift @Snapmaker U1.json"
+      "filename": "Panchroma PLA UV Shift @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1679,7 +1879,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/A1/BambuStudio/PolyLite CosPLA @BBL A1.json",
-      "filename": "PolyLite CosPLA @BBL A1.json"
+      "filename": "PolyLite CosPLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1687,7 +1888,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite CosPLA/BBL/A1/Orcaslicer/PolyLite CosPLA @BBL A1.json",
-      "filename": "PolyLite CosPLA @BBL A1.json"
+      "filename": "PolyLite CosPLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1695,7 +1897,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/A1M/BambuStudio/PolyLite CosPLA @BBL A1M.json",
-      "filename": "PolyLite CosPLA @BBL A1M.json"
+      "filename": "PolyLite CosPLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1703,7 +1906,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite CosPLA/BBL/A1M/Orcaslicer/PolyLite CosPLA @BBL A1M.json",
-      "filename": "PolyLite CosPLA @BBL A1M.json"
+      "filename": "PolyLite CosPLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1711,7 +1915,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/H2S/BambuStudio/PolyLite CosPLA @BBL H2S.json",
-      "filename": "PolyLite CosPLA @BBL H2S.json"
+      "filename": "PolyLite CosPLA @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1719,7 +1924,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/P1P/BambuStudio/PolyLite CosPLA @BBL P1P.json",
-      "filename": "PolyLite CosPLA @BBL P1P.json"
+      "filename": "PolyLite CosPLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1727,7 +1933,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite CosPLA/BBL/P1P/Orcaslicer/PolyLite CosPLA @BBL P1P.json",
-      "filename": "PolyLite CosPLA @BBL P1P.json"
+      "filename": "PolyLite CosPLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1735,7 +1942,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/P2S/BambuStudio/PolyLite CosPLA @BBL P2S.json",
-      "filename": "PolyLite CosPLA @BBL P2S.json"
+      "filename": "PolyLite CosPLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1743,7 +1951,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/X1/BambuStudio/PolyLite CosPLA @BBL X1.json",
-      "filename": "PolyLite CosPLA @BBL X1.json"
+      "filename": "PolyLite CosPLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1751,7 +1960,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite CosPLA/BBL/X1/Orcaslicer/PolyLite CosPLA @BBL X1.json",
-      "filename": "PolyLite CosPLA @BBL X1.json"
+      "filename": "PolyLite CosPLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1759,7 +1969,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite CosPLA/Elegoo/CC2/ElegooSlicer/PolyLite CosPLA @Elegoo CC2.json",
-      "filename": "PolyLite CosPLA @Elegoo CC2.json"
+      "filename": "PolyLite CosPLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -1767,7 +1978,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite CosPLA/Snapmaker/U1/OrcaSlicer/PolyLite CosPLA @Snapmaker U1.json",
-      "filename": "PolyLite CosPLA @Snapmaker U1.json"
+      "filename": "PolyLite CosPLA @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PETG",
@@ -1775,7 +1987,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PETG/Snapmaker/U1/OrcaSlicer/PolyLite PETG @Snapmaker U1.json",
-      "filename": "PolyLite PETG @Snapmaker U1.json"
+      "filename": "PolyLite PETG @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PETG Translucent",
@@ -1783,7 +1996,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PETG Translucent/Snapmaker/U1/OrcaSlicer/PolyLite PETG Translucent @Snapmaker U1.json",
-      "filename": "PolyLite PETG Translucent @Snapmaker U1.json"
+      "filename": "PolyLite PETG Translucent @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1791,7 +2005,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/A1/BambuStudio/PolyLite PLA @BBL A1.json",
-      "filename": "PolyLite PLA @BBL A1.json"
+      "filename": "PolyLite PLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1799,7 +2014,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA/BBL/A1/Orcaslicer/PolyLite PLA @BBL A1.json",
-      "filename": "PolyLite PLA @BBL A1.json"
+      "filename": "PolyLite PLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1807,7 +2023,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/A1M/BambuStudio/PolyLite PLA @BBL A1M.json",
-      "filename": "PolyLite PLA @BBL A1M.json"
+      "filename": "PolyLite PLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1815,7 +2032,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA/BBL/A1M/Orcaslicer/PolyLite PLA @BBL A1M.json",
-      "filename": "PolyLite PLA @BBL A1M.json"
+      "filename": "PolyLite PLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1823,7 +2041,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/H2D/BambuStudio/PolyLite PLA @BBL H2D.json",
-      "filename": "PolyLite PLA @BBL H2D.json"
+      "filename": "PolyLite PLA @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1831,7 +2050,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/H2S/BambuStudio/PolyLite PLA @BBL H2S.json",
-      "filename": "PolyLite PLA @BBL H2S.json"
+      "filename": "PolyLite PLA @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1839,7 +2059,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/P1P/BambuStudio/PolyLite PLA @BBL P1P.json",
-      "filename": "PolyLite PLA @BBL P1P.json"
+      "filename": "PolyLite PLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1847,7 +2068,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA/BBL/P1P/Orcaslicer/PolyLite PLA @BBL P1P.json",
-      "filename": "PolyLite PLA @BBL P1P.json"
+      "filename": "PolyLite PLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1855,7 +2077,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/P2S/BambuStudio/PolyLite PLA @BBL P2S.json",
-      "filename": "PolyLite PLA @BBL P2S.json"
+      "filename": "PolyLite PLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1863,7 +2086,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/X1/BambuStudio/PolyLite PLA @BBL X1.json",
-      "filename": "PolyLite PLA @BBL X1.json"
+      "filename": "PolyLite PLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1871,7 +2095,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA/BBL/X1/Orcaslicer/PolyLite PLA @BBL X1.json",
-      "filename": "PolyLite PLA @BBL X1.json"
+      "filename": "PolyLite PLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1879,7 +2104,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA/Elegoo/CC2/ElegooSlicer/PolyLite PLA @Elegoo CC2.json",
-      "filename": "PolyLite PLA @Elegoo CC2.json"
+      "filename": "PolyLite PLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -1887,7 +2113,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA/Snapmaker/U1/OrcaSlicer/PolyLite PLA @Snapmaker U1.json",
-      "filename": "PolyLite PLA @Snapmaker U1.json"
+      "filename": "PolyLite PLA @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1895,7 +2122,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/A1/BambuStudio/PolyLite PLA Galaxy @BBL A1.json",
-      "filename": "PolyLite PLA Galaxy @BBL A1.json"
+      "filename": "PolyLite PLA Galaxy @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1903,7 +2131,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Galaxy/BBL/A1/Orcaslicer/PolyLite PLA Galaxy @BBL A1.json",
-      "filename": "PolyLite PLA Galaxy @BBL A1.json"
+      "filename": "PolyLite PLA Galaxy @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1911,7 +2140,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/A1M/BambuStudio/PolyLite PLA Galaxy @BBL A1M.json",
-      "filename": "PolyLite PLA Galaxy @BBL A1M.json"
+      "filename": "PolyLite PLA Galaxy @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1919,7 +2149,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Galaxy/BBL/A1M/Orcaslicer/PolyLite PLA Galaxy @BBL A1M.json",
-      "filename": "PolyLite PLA Galaxy @BBL A1M.json"
+      "filename": "PolyLite PLA Galaxy @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1927,7 +2158,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/H2D/BambuStudio/PolyLite PLA Galaxy @BBL H2D.json",
-      "filename": "PolyLite PLA Galaxy @BBL H2D.json"
+      "filename": "PolyLite PLA Galaxy @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1935,7 +2167,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/H2S/BambuStudio/PolyLite PLA Galaxy @BBL H2S.json",
-      "filename": "PolyLite PLA Galaxy @BBL H2S.json"
+      "filename": "PolyLite PLA Galaxy @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1943,7 +2176,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/P1P/BambuStudio/PolyLite PLA Galaxy @BBL P1P.json",
-      "filename": "PolyLite PLA Galaxy @BBL P1P.json"
+      "filename": "PolyLite PLA Galaxy @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1951,7 +2185,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Galaxy/BBL/P1P/Orcaslicer/PolyLite PLA Galaxy @BBL P1P.json",
-      "filename": "PolyLite PLA Galaxy @BBL P1P.json"
+      "filename": "PolyLite PLA Galaxy @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1959,7 +2194,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/P2S/BambuStudio/PolyLite PLA Galaxy @BBL P2S.json",
-      "filename": "PolyLite PLA Galaxy @BBL P2S.json"
+      "filename": "PolyLite PLA Galaxy @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1967,7 +2203,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/X1/BambuStudio/PolyLite PLA Galaxy @BBL X1.json",
-      "filename": "PolyLite PLA Galaxy @BBL X1.json"
+      "filename": "PolyLite PLA Galaxy @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1975,7 +2212,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Galaxy/BBL/X1/Orcaslicer/PolyLite PLA Galaxy @BBL X1.json",
-      "filename": "PolyLite PLA Galaxy @BBL X1.json"
+      "filename": "PolyLite PLA Galaxy @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1983,7 +2221,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Galaxy/Elegoo/CC2/ElegooSlicer/PolyLite PLA Galaxy @Elegoo CC2.json",
-      "filename": "PolyLite PLA Galaxy @Elegoo CC2.json"
+      "filename": "PolyLite PLA Galaxy @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -1991,7 +2230,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Galaxy/Snapmaker/U1/OrcaSlicer/PolyLite PLA Galaxy @Snapmaker U1.json",
-      "filename": "PolyLite PLA Galaxy @Snapmaker U1.json"
+      "filename": "PolyLite PLA Galaxy @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -1999,7 +2239,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/A1/BambuStudio/PolyLite PLA Glow @BBL A1.json",
-      "filename": "PolyLite PLA Glow @BBL A1.json"
+      "filename": "PolyLite PLA Glow @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2007,7 +2248,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Glow/BBL/A1/Orcaslicer/PolyLite PLA Glow @BBL A1.json",
-      "filename": "PolyLite PLA Glow @BBL A1.json"
+      "filename": "PolyLite PLA Glow @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2015,7 +2257,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/A1M/BambuStudio/PolyLite PLA Glow @BBL A1M.json",
-      "filename": "PolyLite PLA Glow @BBL A1M.json"
+      "filename": "PolyLite PLA Glow @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2023,7 +2266,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Glow/BBL/A1M/Orcaslicer/PolyLite PLA Glow @BBL A1M.json",
-      "filename": "PolyLite PLA Glow @BBL A1M.json"
+      "filename": "PolyLite PLA Glow @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2031,7 +2275,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/H2D/BambuStudio/PolyLite PLA Glow @BBL H2D.json",
-      "filename": "PolyLite PLA Glow @BBL H2D.json"
+      "filename": "PolyLite PLA Glow @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2039,7 +2284,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/H2S/BambuStudio/PolyLite PLA Glow @BBL H2S.json",
-      "filename": "PolyLite PLA Glow @BBL H2S.json"
+      "filename": "PolyLite PLA Glow @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2047,7 +2293,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/P1P/BambuStudio/PolyLite PLA Glow @BBL P1P.json",
-      "filename": "PolyLite PLA Glow @BBL P1P.json"
+      "filename": "PolyLite PLA Glow @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2055,7 +2302,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Glow/BBL/P1P/Orcaslicer/PolyLite PLA Glow @BBL P1P.json",
-      "filename": "PolyLite PLA Glow @BBL P1P.json"
+      "filename": "PolyLite PLA Glow @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2063,7 +2311,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/P2S/BambuStudio/PolyLite PLA Glow @BBL P2S.json",
-      "filename": "PolyLite PLA Glow @BBL P2S.json"
+      "filename": "PolyLite PLA Glow @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2071,7 +2320,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/X1/BambuStudio/PolyLite PLA Glow @BBL X1.json",
-      "filename": "PolyLite PLA Glow @BBL X1.json"
+      "filename": "PolyLite PLA Glow @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2079,7 +2329,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Glow/BBL/X1/Orcaslicer/PolyLite PLA Glow @BBL X1.json",
-      "filename": "PolyLite PLA Glow @BBL X1.json"
+      "filename": "PolyLite PLA Glow @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2087,7 +2338,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Glow/Elegoo/CC2/ElegooSlicer/PolyLite PLA Glow @Elegoo CC2.json",
-      "filename": "PolyLite PLA Glow @Elegoo CC2.json"
+      "filename": "PolyLite PLA Glow @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2095,7 +2347,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Glow/Snapmaker/U1/OrcaSlicer/PolyLite PLA Glow @Snapmaker U1.json",
-      "filename": "PolyLite PLA Glow @Snapmaker U1.json"
+      "filename": "PolyLite PLA Glow @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2103,7 +2356,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/A1/BambuStudio/PolyLite PLA Luminous @BBL A1.json",
-      "filename": "PolyLite PLA Luminous @BBL A1.json"
+      "filename": "PolyLite PLA Luminous @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2111,7 +2365,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Luminous/BBL/A1/Orcaslicer/PolyLite PLA Luminous @BBL A1.json",
-      "filename": "PolyLite PLA Luminous @BBL A1.json"
+      "filename": "PolyLite PLA Luminous @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2119,7 +2374,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/A1M/BambuStudio/PolyLite PLA Luminous @BBL A1M.json",
-      "filename": "PolyLite PLA Luminous @BBL A1M.json"
+      "filename": "PolyLite PLA Luminous @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2127,7 +2383,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Luminous/BBL/A1M/Orcaslicer/PolyLite PLA Luminous @BBL A1M.json",
-      "filename": "PolyLite PLA Luminous @BBL A1M.json"
+      "filename": "PolyLite PLA Luminous @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2135,7 +2392,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/H2D/BambuStudio/PolyLite PLA Luminous @BBL H2D.json",
-      "filename": "PolyLite PLA Luminous @BBL H2D.json"
+      "filename": "PolyLite PLA Luminous @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2143,7 +2401,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/H2S/BambuStudio/PolyLite PLA Luminous @BBL H2S.json",
-      "filename": "PolyLite PLA Luminous @BBL H2S.json"
+      "filename": "PolyLite PLA Luminous @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2151,7 +2410,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/P1P/BambuStudio/PolyLite PLA Luminous @BBL P1P.json",
-      "filename": "PolyLite PLA Luminous @BBL P1P.json"
+      "filename": "PolyLite PLA Luminous @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2159,7 +2419,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Luminous/BBL/P1P/Orcaslicer/PolyLite PLA Luminous @BBL P1P.json",
-      "filename": "PolyLite PLA Luminous @BBL P1P.json"
+      "filename": "PolyLite PLA Luminous @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2167,7 +2428,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/P2S/BambuStudio/PolyLite PLA Luminous @BBL P2S.json",
-      "filename": "PolyLite PLA Luminous @BBL P2S.json"
+      "filename": "PolyLite PLA Luminous @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2175,7 +2437,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/X1/BambuStudio/PolyLite PLA Luminous @BBL X1.json",
-      "filename": "PolyLite PLA Luminous @BBL X1.json"
+      "filename": "PolyLite PLA Luminous @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2183,7 +2446,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Luminous/BBL/X1/Orcaslicer/PolyLite PLA Luminous @BBL X1.json",
-      "filename": "PolyLite PLA Luminous @BBL X1.json"
+      "filename": "PolyLite PLA Luminous @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2191,7 +2455,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Luminous/Elegoo/CC2/ElegooSlicer/PolyLite PLA Luminous @Elegoo CC2.json",
-      "filename": "PolyLite PLA Luminous @Elegoo CC2.json"
+      "filename": "PolyLite PLA Luminous @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2199,7 +2464,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Luminous/Snapmaker/U1/OrcaSlicer/PolyLite PLA Luminous @Snapmaker U1.json",
-      "filename": "PolyLite PLA Luminous @Snapmaker U1.json"
+      "filename": "PolyLite PLA Luminous @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2207,7 +2473,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/A1/BambuStudio/PolyLite PLA Neon @BBL A1.json",
-      "filename": "PolyLite PLA Neon @BBL A1.json"
+      "filename": "PolyLite PLA Neon @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2215,7 +2482,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Neon/BBL/A1/Orcaslicer/PolyLite PLA Neon @BBL A1.json",
-      "filename": "PolyLite PLA Neon @BBL A1.json"
+      "filename": "PolyLite PLA Neon @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2223,7 +2491,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/A1M/BambuStudio/PolyLite PLA Neon @BBL A1M.json",
-      "filename": "PolyLite PLA Neon @BBL A1M.json"
+      "filename": "PolyLite PLA Neon @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2231,7 +2500,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Neon/BBL/A1M/Orcaslicer/PolyLite PLA Neon @BBL A1M.json",
-      "filename": "PolyLite PLA Neon @BBL A1M.json"
+      "filename": "PolyLite PLA Neon @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2239,7 +2509,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/H2D/BambuStudio/PolyLite PLA Neon @BBL H2D.json",
-      "filename": "PolyLite PLA Neon @BBL H2D.json"
+      "filename": "PolyLite PLA Neon @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2247,7 +2518,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/H2S/BambuStudio/PolyLite PLA Neon @BBL H2S.json",
-      "filename": "PolyLite PLA Neon @BBL H2S.json"
+      "filename": "PolyLite PLA Neon @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2255,7 +2527,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/P1P/BambuStudio/PolyLite PLA Neon @BBL P1P.json",
-      "filename": "PolyLite PLA Neon @BBL P1P.json"
+      "filename": "PolyLite PLA Neon @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2263,7 +2536,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Neon/BBL/P1P/Orcaslicer/PolyLite PLA Neon @BBL P1P.json",
-      "filename": "PolyLite PLA Neon @BBL P1P.json"
+      "filename": "PolyLite PLA Neon @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2271,7 +2545,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/P2S/BambuStudio/PolyLite PLA Neon @BBL P2S.json",
-      "filename": "PolyLite PLA Neon @BBL P2S.json"
+      "filename": "PolyLite PLA Neon @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2279,7 +2554,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/X1/BambuStudio/PolyLite PLA Neon @BBL X1.json",
-      "filename": "PolyLite PLA Neon @BBL X1.json"
+      "filename": "PolyLite PLA Neon @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2287,7 +2563,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Neon/BBL/X1/Orcaslicer/PolyLite PLA Neon @BBL X1.json",
-      "filename": "PolyLite PLA Neon @BBL X1.json"
+      "filename": "PolyLite PLA Neon @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2295,7 +2572,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Neon/Elegoo/CC2/ElegooSlicer/PolyLite PLA Neon @Elegoo CC2.json",
-      "filename": "PolyLite PLA Neon @Elegoo CC2.json"
+      "filename": "PolyLite PLA Neon @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2303,7 +2581,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Neon/Snapmaker/U1/OrcaSlicer/PolyLite PLA Neon @Snapmaker U1.json",
-      "filename": "PolyLite PLA Neon @Snapmaker U1.json"
+      "filename": "PolyLite PLA Neon @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2311,7 +2590,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro/BBL/H2D/BambuStudio/PolyLite PLA Pro @BBL H2D.json",
-      "filename": "PolyLite PLA Pro @BBL H2D.json"
+      "filename": "PolyLite PLA Pro @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2319,7 +2599,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro/BBL/H2S/BambuStudio/PolyLite PLA Pro @BBL H2S.json",
-      "filename": "PolyLite PLA Pro @BBL H2S.json"
+      "filename": "PolyLite PLA Pro @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2327,7 +2608,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro/BBL/P2S/BambuStudio/PolyLite PLA Pro @BBL P2S.json",
-      "filename": "PolyLite PLA Pro @BBL P2S.json"
+      "filename": "PolyLite PLA Pro @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2335,7 +2617,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Pro/Elegoo/CC2/ElegooSlicer/PolyLite PLA Pro @Elegoo CC2.json",
-      "filename": "PolyLite PLA Pro @Elegoo CC2.json"
+      "filename": "PolyLite PLA Pro @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro Metallic",
@@ -2343,7 +2626,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro Metallic/BBL/H2D/BambuStudio/PolyLite PLA Pro Metallic @BBL H2D.json",
-      "filename": "PolyLite PLA Pro Metallic @BBL H2D.json"
+      "filename": "PolyLite PLA Pro Metallic @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro Metallic",
@@ -2351,7 +2635,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro Metallic/BBL/H2S/BambuStudio/PolyLite PLA Pro Metallic @BBL H2S.json",
-      "filename": "PolyLite PLA Pro Metallic @BBL H2S.json"
+      "filename": "PolyLite PLA Pro Metallic @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro Metallic",
@@ -2359,7 +2644,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro Metallic/BBL/P2S/BambuStudio/PolyLite PLA Pro Metallic @BBL P2S.json",
-      "filename": "PolyLite PLA Pro Metallic @BBL P2S.json"
+      "filename": "PolyLite PLA Pro Metallic @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Pro Metallic",
@@ -2367,7 +2653,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Pro Metallic/Elegoo/CC2/ElegooSlicer/PolyLite PLA Pro Metallic @Elegoo CC2.json",
-      "filename": "PolyLite PLA Pro Metallic @Elegoo CC2.json"
+      "filename": "PolyLite PLA Pro Metallic @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2375,7 +2662,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/A1/BambuStudio/PolyLite PLA Starlight @BBL A1.json",
-      "filename": "PolyLite PLA Starlight @BBL A1.json"
+      "filename": "PolyLite PLA Starlight @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2383,7 +2671,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Starlight/BBL/A1/Orcaslicer/PolyLite PLA Starlight @BBL A1.json",
-      "filename": "PolyLite PLA Starlight @BBL A1.json"
+      "filename": "PolyLite PLA Starlight @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2391,7 +2680,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/A1M/BambuStudio/PolyLite PLA Starlight @BBL A1M.json",
-      "filename": "PolyLite PLA Starlight @BBL A1M.json"
+      "filename": "PolyLite PLA Starlight @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2399,7 +2689,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Starlight/BBL/A1M/Orcaslicer/PolyLite PLA Starlight @BBL A1M.json",
-      "filename": "PolyLite PLA Starlight @BBL A1M.json"
+      "filename": "PolyLite PLA Starlight @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2407,7 +2698,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/H2D/BambuStudio/PolyLite PLA Starlight @BBL H2D.json",
-      "filename": "PolyLite PLA Starlight @BBL H2D.json"
+      "filename": "PolyLite PLA Starlight @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2415,7 +2707,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/H2S/BambuStudio/PolyLite PLA Starlight @BBL H2S.json",
-      "filename": "PolyLite PLA Starlight @BBL H2S.json"
+      "filename": "PolyLite PLA Starlight @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2423,7 +2716,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/P1P/BambuStudio/PolyLite PLA Starlight @BBL P1P.json",
-      "filename": "PolyLite PLA Starlight @BBL P1P.json"
+      "filename": "PolyLite PLA Starlight @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2431,7 +2725,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Starlight/BBL/P1P/Orcaslicer/PolyLite PLA Starlight @BBL P1P.json",
-      "filename": "PolyLite PLA Starlight @BBL P1P.json"
+      "filename": "PolyLite PLA Starlight @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2439,7 +2734,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/P2S/BambuStudio/PolyLite PLA Starlight @BBL P2S.json",
-      "filename": "PolyLite PLA Starlight @BBL P2S.json"
+      "filename": "PolyLite PLA Starlight @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2447,7 +2743,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/X1/BambuStudio/PolyLite PLA Starlight @BBL X1.json",
-      "filename": "PolyLite PLA Starlight @BBL X1.json"
+      "filename": "PolyLite PLA Starlight @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2455,7 +2752,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Starlight/BBL/X1/Orcaslicer/PolyLite PLA Starlight @BBL X1.json",
-      "filename": "PolyLite PLA Starlight @BBL X1.json"
+      "filename": "PolyLite PLA Starlight @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2463,7 +2761,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Starlight/Elegoo/CC2/ElegooSlicer/PolyLite PLA Starlight @Elegoo CC2.json",
-      "filename": "PolyLite PLA Starlight @Elegoo CC2.json"
+      "filename": "PolyLite PLA Starlight @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2471,7 +2770,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Starlight/Snapmaker/U1/OrcaSlicer/PolyLite PLA Starlight @Snapmaker U1.json",
-      "filename": "PolyLite PLA Starlight @Snapmaker U1.json"
+      "filename": "PolyLite PLA Starlight @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2479,7 +2779,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/A1/BambuStudio/PolyLite PLA Translucent @BBL A1.json",
-      "filename": "PolyLite PLA Translucent @BBL A1.json"
+      "filename": "PolyLite PLA Translucent @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2487,7 +2788,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Translucent/BBL/A1/Orcaslicer/PolyLite PLA Translucent @BBL A1.json",
-      "filename": "PolyLite PLA Translucent @BBL A1.json"
+      "filename": "PolyLite PLA Translucent @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2495,7 +2797,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/A1M/BambuStudio/PolyLite PLA Translucent @BBL A1M.json",
-      "filename": "PolyLite PLA Translucent @BBL A1M.json"
+      "filename": "PolyLite PLA Translucent @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2503,7 +2806,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Translucent/BBL/A1M/Orcaslicer/PolyLite PLA Translucent @BBL A1M.json",
-      "filename": "PolyLite PLA Translucent @BBL A1M.json"
+      "filename": "PolyLite PLA Translucent @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2511,7 +2815,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/H2D/BambuStudio/PolyLite PLA Translucent @BBL H2D.json",
-      "filename": "PolyLite PLA Translucent @BBL H2D.json"
+      "filename": "PolyLite PLA Translucent @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2519,7 +2824,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/H2S/BambuStudio/PolyLite PLA Translucent @BBL H2S.json",
-      "filename": "PolyLite PLA Translucent @BBL H2S.json"
+      "filename": "PolyLite PLA Translucent @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2527,7 +2833,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/P1P/BambuStudio/PolyLite PLA Translucent @BBL P1P.json",
-      "filename": "PolyLite PLA Translucent @BBL P1P.json"
+      "filename": "PolyLite PLA Translucent @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2535,7 +2842,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Translucent/BBL/P1P/Orcaslicer/PolyLite PLA Translucent @BBL P1P.json",
-      "filename": "PolyLite PLA Translucent @BBL P1P.json"
+      "filename": "PolyLite PLA Translucent @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2543,7 +2851,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/P2S/BambuStudio/PolyLite PLA Translucent @BBL P2S.json",
-      "filename": "PolyLite PLA Translucent @BBL P2S.json"
+      "filename": "PolyLite PLA Translucent @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2551,7 +2860,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/X1/BambuStudio/PolyLite PLA Translucent @BBL X1.json",
-      "filename": "PolyLite PLA Translucent @BBL X1.json"
+      "filename": "PolyLite PLA Translucent @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2559,7 +2869,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyLite PLA Translucent/BBL/X1/Orcaslicer/PolyLite PLA Translucent @BBL X1.json",
-      "filename": "PolyLite PLA Translucent @BBL X1.json"
+      "filename": "PolyLite PLA Translucent @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2567,7 +2878,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyLite PLA Translucent/Elegoo/CC2/ElegooSlicer/PolyLite PLA Translucent @Elegoo CC2.json",
-      "filename": "PolyLite PLA Translucent @Elegoo CC2.json"
+      "filename": "PolyLite PLA Translucent @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2575,7 +2887,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyLite PLA Translucent/Snapmaker/U1/OrcaSlicer/PolyLite PLA Translucent @Snapmaker U1.json",
-      "filename": "PolyLite PLA Translucent @Snapmaker U1.json"
+      "filename": "PolyLite PLA Translucent @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:28:11+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2583,7 +2896,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/A1/BambuStudio/PolyTerra PLA @BBL A1.json",
-      "filename": "PolyTerra PLA @BBL A1.json"
+      "filename": "PolyTerra PLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2591,7 +2905,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA/BBL/A1/Orcaslicer/PolyTerra PLA @BBL A1.json",
-      "filename": "PolyTerra PLA @BBL A1.json"
+      "filename": "PolyTerra PLA @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2599,7 +2914,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/A1M/BambuStudio/PolyTerra PLA @BBL A1M.json",
-      "filename": "PolyTerra PLA @BBL A1M.json"
+      "filename": "PolyTerra PLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2607,7 +2923,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA/BBL/A1M/Orcaslicer/PolyTerra PLA @BBL A1M.json",
-      "filename": "PolyTerra PLA @BBL A1M.json"
+      "filename": "PolyTerra PLA @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2615,7 +2932,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/P1P/BambuStudio/PolyTerra PLA @BBL P1P.json",
-      "filename": "PolyTerra PLA @BBL P1P.json"
+      "filename": "PolyTerra PLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2623,7 +2941,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA/BBL/P1P/Orcaslicer/PolyTerra PLA @BBL P1P.json",
-      "filename": "PolyTerra PLA @BBL P1P.json"
+      "filename": "PolyTerra PLA @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2631,7 +2950,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/P2S/BambuStudio/PolyTerra PLA @BBL P2S.json",
-      "filename": "PolyTerra PLA @BBL P2S.json"
+      "filename": "PolyTerra PLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2639,7 +2959,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/X1/BambuStudio/PolyTerra PLA @BBL X1.json",
-      "filename": "PolyTerra PLA @BBL X1.json"
+      "filename": "PolyTerra PLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2647,7 +2968,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA/BBL/X1/Orcaslicer/PolyTerra PLA @BBL X1.json",
-      "filename": "PolyTerra PLA @BBL X1.json"
+      "filename": "PolyTerra PLA @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2655,7 +2977,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyTerra PLA/Elegoo/CC2/ElegooSlicer/PolyTerra PLA @Elegoo CC2.json",
-      "filename": "PolyTerra PLA @Elegoo CC2.json"
+      "filename": "PolyTerra PLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -2663,7 +2986,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyTerra PLA/Snapmaker/U1/OrcaSlicer/PolyTerra PLA @Snapmaker U1.json",
-      "filename": "PolyTerra PLA @Snapmaker U1.json"
+      "filename": "PolyTerra PLA @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2671,7 +2995,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/A1/BambuStudio/PolyTerra PLA Marble @BBL A1.json",
-      "filename": "PolyTerra PLA Marble @BBL A1.json"
+      "filename": "PolyTerra PLA Marble @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2679,7 +3004,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA Marble/BBL/A1/Orcaslicer/PolyTerra PLA Marble @BBL A1.json",
-      "filename": "PolyTerra PLA Marble @BBL A1.json"
+      "filename": "PolyTerra PLA Marble @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2687,7 +3013,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/A1M/BambuStudio/PolyTerra PLA Marble @BBL A1M.json",
-      "filename": "PolyTerra PLA Marble @BBL A1M.json"
+      "filename": "PolyTerra PLA Marble @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2695,7 +3022,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA Marble/BBL/A1M/Orcaslicer/PolyTerra PLA Marble @BBL A1M.json",
-      "filename": "PolyTerra PLA Marble @BBL A1M.json"
+      "filename": "PolyTerra PLA Marble @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2703,7 +3031,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/P1P/BambuStudio/PolyTerra PLA Marble @BBL P1P.json",
-      "filename": "PolyTerra PLA Marble @BBL P1P.json"
+      "filename": "PolyTerra PLA Marble @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2711,7 +3040,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA Marble/BBL/P1P/Orcaslicer/PolyTerra PLA Marble @BBL P1P.json",
-      "filename": "PolyTerra PLA Marble @BBL P1P.json"
+      "filename": "PolyTerra PLA Marble @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2719,7 +3049,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/P2S/BambuStudio/PolyTerra PLA Marble @BBL P2S.json",
-      "filename": "PolyTerra PLA Marble @BBL P2S.json"
+      "filename": "PolyTerra PLA Marble @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2727,7 +3058,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/X1/BambuStudio/PolyTerra PLA Marble @BBL X1.json",
-      "filename": "PolyTerra PLA Marble @BBL X1.json"
+      "filename": "PolyTerra PLA Marble @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2735,7 +3067,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA Marble/BBL/X1/Orcaslicer/PolyTerra PLA Marble @BBL X1.json",
-      "filename": "PolyTerra PLA Marble @BBL X1.json"
+      "filename": "PolyTerra PLA Marble @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2743,7 +3076,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyTerra PLA Marble/Elegoo/CC2/ElegooSlicer/PolyTerra PLA Marble @Elegoo CC2.json",
-      "filename": "PolyTerra PLA Marble @Elegoo CC2.json"
+      "filename": "PolyTerra PLA Marble @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -2751,7 +3085,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyTerra PLA Marble/Snapmaker/U1/OrcaSlicer/PolyTerra PLA Marble @Snapmaker U1.json",
-      "filename": "PolyTerra PLA Marble @Snapmaker U1.json"
+      "filename": "PolyTerra PLA Marble @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2759,7 +3094,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/A1/BambuStudio/PolyTerra PLA+ @BBL A1.json",
-      "filename": "PolyTerra PLA+ @BBL A1.json"
+      "filename": "PolyTerra PLA+ @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2767,7 +3103,8 @@
       "model": "A1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA+/BBL/A1/Orcaslicer/PolyTerra PLA+ @BBL A1.json",
-      "filename": "PolyTerra PLA+ @BBL A1.json"
+      "filename": "PolyTerra PLA+ @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2775,7 +3112,8 @@
       "model": "A1M",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/A1M/BambuStudio/PolyTerra PLA+ @BBL A1M.json",
-      "filename": "PolyTerra PLA+ @BBL A1M.json"
+      "filename": "PolyTerra PLA+ @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2783,7 +3121,8 @@
       "model": "A1M",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA+/BBL/A1M/Orcaslicer/PolyTerra PLA+ @BBL A1M.json",
-      "filename": "PolyTerra PLA+ @BBL A1M.json"
+      "filename": "PolyTerra PLA+ @BBL A1M.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2791,7 +3130,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/H2S/BambuStudio/PolyTerra PLA+ @BBL H2S.json",
-      "filename": "PolyTerra PLA+ @BBL H2S.json"
+      "filename": "PolyTerra PLA+ @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2799,7 +3139,8 @@
       "model": "P1P",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/P1P/BambuStudio/PolyTerra PLA+ @BBL P1P.json",
-      "filename": "PolyTerra PLA+ @BBL P1P.json"
+      "filename": "PolyTerra PLA+ @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2807,7 +3148,8 @@
       "model": "P1P",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA+/BBL/P1P/Orcaslicer/PolyTerra PLA+ @BBL P1P.json",
-      "filename": "PolyTerra PLA+ @BBL P1P.json"
+      "filename": "PolyTerra PLA+ @BBL P1P.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2815,7 +3157,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/P2S/BambuStudio/PolyTerra PLA+ @BBL P2S.json",
-      "filename": "PolyTerra PLA+ @BBL P2S.json"
+      "filename": "PolyTerra PLA+ @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2823,7 +3166,8 @@
       "model": "X1",
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/X1/BambuStudio/PolyTerra PLA+ @BBL X1.json",
-      "filename": "PolyTerra PLA+ @BBL X1.json"
+      "filename": "PolyTerra PLA+ @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2831,7 +3175,8 @@
       "model": "X1",
       "slicer": "Orcaslicer",
       "path": "preset/PolyTerra PLA+/BBL/X1/Orcaslicer/PolyTerra PLA+ @BBL X1.json",
-      "filename": "PolyTerra PLA+ @BBL X1.json"
+      "filename": "PolyTerra PLA+ @BBL X1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2839,7 +3184,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/PolyTerra PLA+/Elegoo/CC2/ElegooSlicer/PolyTerra PLA+ @Elegoo CC2.json",
-      "filename": "PolyTerra PLA+ @Elegoo CC2.json"
+      "filename": "PolyTerra PLA+ @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -2847,7 +3193,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/PolyTerra PLA+/Snapmaker/U1/OrcaSlicer/PolyTerra PLA+ @Snapmaker U1.json",
-      "filename": "PolyTerra PLA+ @Snapmaker U1.json"
+      "filename": "PolyTerra PLA+ @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -2855,7 +3202,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA/BBL/H2D/BambuStudio/Polymaker HT-PLA @BBL H2D.json",
-      "filename": "Polymaker HT-PLA @BBL H2D.json"
+      "filename": "Polymaker HT-PLA @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -2863,7 +3211,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA/BBL/H2S/BambuStudio/Polymaker HT-PLA @BBL H2S.json",
-      "filename": "Polymaker HT-PLA @BBL H2S.json"
+      "filename": "Polymaker HT-PLA @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -2871,7 +3220,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA/BBL/P2S/BambuStudio/Polymaker HT-PLA @BBL P2S.json",
-      "filename": "Polymaker HT-PLA @BBL P2S.json"
+      "filename": "Polymaker HT-PLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -2879,7 +3229,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker HT-PLA/Elegoo/CC2/ElegooSlicer/Polymaker HT-PLA @Elegoo CC2.json",
-      "filename": "Polymaker HT-PLA @Elegoo CC2.json"
+      "filename": "Polymaker HT-PLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -2887,7 +3238,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker HT-PLA/Snapmaker/U1/OrcaSlicer/Polymaker HT-PLA @Snapmaker U1.json",
-      "filename": "Polymaker HT-PLA @Snapmaker U1.json"
+      "filename": "Polymaker HT-PLA @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -2895,7 +3247,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA-GF/BBL/H2D/BambuStudio/Polymaker HT-PLA-GF @BBL H2D.json",
-      "filename": "Polymaker HT-PLA-GF @BBL H2D.json"
+      "filename": "Polymaker HT-PLA-GF @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -2903,7 +3256,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA-GF/BBL/H2S/BambuStudio/Polymaker HT-PLA-GF @BBL H2S.json",
-      "filename": "Polymaker HT-PLA-GF @BBL H2S.json"
+      "filename": "Polymaker HT-PLA-GF @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -2911,7 +3265,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA-GF/BBL/P2S/BambuStudio/Polymaker HT-PLA-GF @BBL P2S.json",
-      "filename": "Polymaker HT-PLA-GF @BBL P2S.json"
+      "filename": "Polymaker HT-PLA-GF @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -2919,7 +3274,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker HT-PLA-GF/Elegoo/CC2/ElegooSlicer/Polymaker HT-PLA-GF @Elegoo CC2.json",
-      "filename": "Polymaker HT-PLA-GF @Elegoo CC2.json"
+      "filename": "Polymaker HT-PLA-GF @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -2927,7 +3283,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker HT-PLA-GF/Snapmaker/U1/OrcaSlicer/Polymaker HT-PLA-GF @Snapmaker U1.json",
-      "filename": "Polymaker HT-PLA-GF @Snapmaker U1.json"
+      "filename": "Polymaker HT-PLA-GF @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2935,7 +3292,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG/BBL/A1/BambuStudio/Polymaker PETG @BBL A1.json",
-      "filename": "Polymaker PETG @BBL A1.json"
+      "filename": "Polymaker PETG @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2943,7 +3301,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG/BBL/H2S/BambuStudio/Polymaker PETG @BBL H2S.json",
-      "filename": "Polymaker PETG @BBL H2S.json"
+      "filename": "Polymaker PETG @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2951,7 +3310,8 @@
       "model": "P1S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG/BBL/P1S/BambuStudio/Polymaker PETG @BBL P1S.json",
-      "filename": "Polymaker PETG @BBL P1S.json"
+      "filename": "Polymaker PETG @BBL P1S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2959,7 +3319,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG/BBL/P2S/BambuStudio/Polymaker PETG @BBL P2S.json",
-      "filename": "Polymaker PETG @BBL P2S.json"
+      "filename": "Polymaker PETG @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2967,7 +3328,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker PETG/Elegoo/CC2/ElegooSlicer/Polymaker PETG @Elegoo CC2.json",
-      "filename": "Polymaker PETG @Elegoo CC2.json"
+      "filename": "Polymaker PETG @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG",
@@ -2975,7 +3337,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PETG/Snapmaker/U1/OrcaSlicer/Polymaker PETG @Snapmaker U1.json",
-      "filename": "Polymaker PETG @Snapmaker U1.json"
+      "filename": "Polymaker PETG @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -2983,7 +3346,8 @@
       "model": "A1",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG Galaxy/BBL/A1/BambuStudio/Polymaker PETG Galaxy @BBL A1.json",
-      "filename": "Polymaker PETG Galaxy @BBL A1.json"
+      "filename": "Polymaker PETG Galaxy @BBL A1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -2991,7 +3355,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG Galaxy/BBL/H2S/BambuStudio/Polymaker PETG Galaxy @BBL H2S.json",
-      "filename": "Polymaker PETG Galaxy @BBL H2S.json"
+      "filename": "Polymaker PETG Galaxy @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -2999,7 +3364,8 @@
       "model": "P1S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG Galaxy/BBL/P1S/BambuStudio/Polymaker PETG Galaxy @BBL P1S.json",
-      "filename": "Polymaker PETG Galaxy @BBL P1S.json"
+      "filename": "Polymaker PETG Galaxy @BBL P1S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -3007,7 +3373,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PETG Galaxy/BBL/P2S/BambuStudio/Polymaker PETG Galaxy @BBL P2S.json",
-      "filename": "Polymaker PETG Galaxy @BBL P2S.json"
+      "filename": "Polymaker PETG Galaxy @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -3015,7 +3382,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker PETG Galaxy/Elegoo/CC2/ElegooSlicer/Polymaker PETG Galaxy @Elegoo CC2.json",
-      "filename": "Polymaker PETG Galaxy @Elegoo CC2.json"
+      "filename": "Polymaker PETG Galaxy @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PETG Galaxy",
@@ -3023,7 +3391,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PETG Galaxy/Snapmaker/U1/OrcaSlicer/Polymaker PETG Galaxy @Snapmaker U1.json",
-      "filename": "Polymaker PETG Galaxy @Snapmaker U1.json"
+      "filename": "Polymaker PETG Galaxy @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA",
@@ -3031,7 +3400,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA/BBL/H2D/BambuStudio/Polymaker PLA @BBL H2D.json",
-      "filename": "Polymaker PLA @BBL H2D.json"
+      "filename": "Polymaker PLA @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA",
@@ -3039,7 +3409,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA/BBL/H2S/BambuStudio/Polymaker PLA @BBL H2S.json",
-      "filename": "Polymaker PLA @BBL H2S.json"
+      "filename": "Polymaker PLA @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA",
@@ -3047,7 +3418,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA/BBL/P2S/BambuStudio/Polymaker PLA @BBL P2S.json",
-      "filename": "Polymaker PLA @BBL P2S.json"
+      "filename": "Polymaker PLA @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA",
@@ -3055,7 +3427,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker PLA/Elegoo/CC2/ElegooSlicer/Polymaker PLA @Elegoo CC2.json",
-      "filename": "Polymaker PLA @Elegoo CC2.json"
+      "filename": "Polymaker PLA @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3063,7 +3436,8 @@
       "model": "Kobra S1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PLA Pro/Anycubic/Kobra S1/OrcaSlicer/Polymaker PLA Pro @Anycubic Kobra S1.json",
-      "filename": "Polymaker PLA Pro @Anycubic Kobra S1.json"
+      "filename": "Polymaker PLA Pro @Anycubic Kobra S1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3071,7 +3445,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro/BBL/H2D/BambuStudio/Polymaker PLA Pro @BBL H2D.json",
-      "filename": "Polymaker PLA Pro @BBL H2D.json"
+      "filename": "Polymaker PLA Pro @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3079,7 +3454,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro/BBL/H2S/BambuStudio/Polymaker PLA Pro @BBL H2S.json",
-      "filename": "Polymaker PLA Pro @BBL H2S.json"
+      "filename": "Polymaker PLA Pro @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3087,7 +3463,8 @@
       "model": "P1S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro/BBL/P1S/BambuStudio/Polymaker PLA Pro @BBL P1S.json",
-      "filename": "Polymaker PLA Pro @BBL P1S.json"
+      "filename": "Polymaker PLA Pro @BBL P1S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3095,7 +3472,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro/BBL/P2S/BambuStudio/Polymaker PLA Pro @BBL P2S.json",
-      "filename": "Polymaker PLA Pro @BBL P2S.json"
+      "filename": "Polymaker PLA Pro @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3103,7 +3481,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker PLA Pro/Elegoo/CC2/ElegooSlicer/Polymaker PLA Pro @Elegoo CC2.json",
-      "filename": "Polymaker PLA Pro @Elegoo CC2.json"
+      "filename": "Polymaker PLA Pro @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3111,7 +3490,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PLA Pro/Snapmaker/U1/OrcaSlicer/Polymaker PLA Pro @Snapmaker U1.json",
-      "filename": "Polymaker PLA Pro @Snapmaker U1.json"
+      "filename": "Polymaker PLA Pro @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3119,7 +3499,8 @@
       "model": "Kobra S1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PLA Pro Metallic/Anycubic/Kobra S1/OrcaSlicer/Polymaker PLA Pro Metallic @Anycubic Kobra S1.json",
-      "filename": "Polymaker PLA Pro Metallic @Anycubic Kobra S1.json"
+      "filename": "Polymaker PLA Pro Metallic @Anycubic Kobra S1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3127,7 +3508,8 @@
       "model": "H2D",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro Metallic/BBL/H2D/BambuStudio/Polymaker PLA Pro Metallic @BBL H2D.json",
-      "filename": "Polymaker PLA Pro Metallic @BBL H2D.json"
+      "filename": "Polymaker PLA Pro Metallic @BBL H2D.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3135,7 +3517,8 @@
       "model": "H2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro Metallic/BBL/H2S/BambuStudio/Polymaker PLA Pro Metallic @BBL H2S.json",
-      "filename": "Polymaker PLA Pro Metallic @BBL H2S.json"
+      "filename": "Polymaker PLA Pro Metallic @BBL H2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3143,7 +3526,8 @@
       "model": "P1S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro Metallic/BBL/P1S/BambuStudio/Polymaker PLA Pro Metallic @BBL P1S.json",
-      "filename": "Polymaker PLA Pro Metallic @BBL P1S.json"
+      "filename": "Polymaker PLA Pro Metallic @BBL P1S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3151,7 +3535,8 @@
       "model": "P2S",
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro Metallic/BBL/P2S/BambuStudio/Polymaker PLA Pro Metallic @BBL P2S.json",
-      "filename": "Polymaker PLA Pro Metallic @BBL P2S.json"
+      "filename": "Polymaker PLA Pro Metallic @BBL P2S.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3159,7 +3544,8 @@
       "model": "CC2",
       "slicer": "ElegooSlicer",
       "path": "preset/Polymaker PLA Pro Metallic/Elegoo/CC2/ElegooSlicer/Polymaker PLA Pro Metallic @Elegoo CC2.json",
-      "filename": "Polymaker PLA Pro Metallic @Elegoo CC2.json"
+      "filename": "Polymaker PLA Pro Metallic @Elegoo CC2.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
@@ -3167,7 +3553,8 @@
       "model": "U1",
       "slicer": "OrcaSlicer",
       "path": "preset/Polymaker PLA Pro Metallic/Snapmaker/U1/OrcaSlicer/Polymaker PLA Pro Metallic @Snapmaker U1.json",
-      "filename": "Polymaker PLA Pro Metallic @Snapmaker U1.json"
+      "filename": "Polymaker PLA Pro Metallic @Snapmaker U1.json",
+      "updatedAt": "2026-02-11T15:10:54+08:00"
     }
   ]
 }
