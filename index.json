@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updatedAt": "2026-02-14T03:16:14.525Z",
+  "updatedAt": "2026-02-28T08:31:01.993Z",
   "materials": [
     "Fiberon PA12-CF10",
     "Fiberon PA6-CF20",
@@ -341,7 +341,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma CoPE/BBL/P2S/BambuStudio/Panchroma CoPE @BBL P2S.json",
       "filename": "Panchroma CoPE @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma CoPE",
@@ -395,7 +395,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA/BBL/P2S/BambuStudio/Panchroma PLA @BBL P2S.json",
       "filename": "Panchroma PLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA",
@@ -485,7 +485,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Celestial/BBL/P2S/BambuStudio/Panchroma PLA Celestial @BBL P2S.json",
       "filename": "Panchroma PLA Celestial @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Celestial",
@@ -602,7 +602,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Galaxy/BBL/P2S/BambuStudio/Panchroma PLA Galaxy @BBL P2S.json",
       "filename": "Panchroma PLA Galaxy @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Galaxy",
@@ -719,7 +719,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Glow/BBL/P2S/BambuStudio/Panchroma PLA Glow @BBL P2S.json",
       "filename": "Panchroma PLA Glow @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Glow",
@@ -836,7 +836,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Luminous/BBL/P2S/BambuStudio/Panchroma PLA Luminous @BBL P2S.json",
       "filename": "Panchroma PLA Luminous @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Luminous",
@@ -935,7 +935,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Marble/BBL/P2S/BambuStudio/Panchroma PLA Marble @BBL P2S.json",
       "filename": "Panchroma PLA Marble @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Marble",
@@ -1034,7 +1034,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Matte/BBL/P2S/BambuStudio/Panchroma PLA Matte @BBL P2S.json",
       "filename": "Panchroma PLA Matte @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Matte",
@@ -1151,7 +1151,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Metallic/BBL/P2S/BambuStudio/Panchroma PLA Metallic @BBL P2S.json",
       "filename": "Panchroma PLA Metallic @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Metallic",
@@ -1268,7 +1268,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Neon/BBL/P2S/BambuStudio/Panchroma PLA Neon @BBL P2S.json",
       "filename": "Panchroma PLA Neon @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Neon",
@@ -1376,7 +1376,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Satin/BBL/P2S/BambuStudio/Panchroma PLA Satin @BBL P2S.json",
       "filename": "Panchroma PLA Satin @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Satin",
@@ -1484,7 +1484,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Silk/BBL/P2S/BambuStudio/Panchroma PLA Silk @BBL P2S.json",
       "filename": "Panchroma PLA Silk @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Silk",
@@ -1601,7 +1601,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Starlight/BBL/P2S/BambuStudio/Panchroma PLA Starlight @BBL P2S.json",
       "filename": "Panchroma PLA Starlight @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Starlight",
@@ -1718,7 +1718,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA Translucent/BBL/P2S/BambuStudio/Panchroma PLA Translucent @BBL P2S.json",
       "filename": "Panchroma PLA Translucent @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA Translucent",
@@ -1835,7 +1835,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Panchroma PLA UV Shift/BBL/P2S/BambuStudio/Panchroma PLA UV Shift @BBL P2S.json",
       "filename": "Panchroma PLA UV Shift @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Panchroma PLA UV Shift",
@@ -1943,7 +1943,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite CosPLA/BBL/P2S/BambuStudio/PolyLite CosPLA @BBL P2S.json",
       "filename": "PolyLite CosPLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite CosPLA",
@@ -2078,7 +2078,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA/BBL/P2S/BambuStudio/PolyLite PLA @BBL P2S.json",
       "filename": "PolyLite PLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA",
@@ -2195,7 +2195,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Galaxy/BBL/P2S/BambuStudio/PolyLite PLA Galaxy @BBL P2S.json",
       "filename": "PolyLite PLA Galaxy @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Galaxy",
@@ -2312,7 +2312,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Glow/BBL/P2S/BambuStudio/PolyLite PLA Glow @BBL P2S.json",
       "filename": "PolyLite PLA Glow @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Glow",
@@ -2429,7 +2429,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Luminous/BBL/P2S/BambuStudio/PolyLite PLA Luminous @BBL P2S.json",
       "filename": "PolyLite PLA Luminous @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Luminous",
@@ -2546,7 +2546,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Neon/BBL/P2S/BambuStudio/PolyLite PLA Neon @BBL P2S.json",
       "filename": "PolyLite PLA Neon @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Neon",
@@ -2609,7 +2609,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro/BBL/P2S/BambuStudio/PolyLite PLA Pro @BBL P2S.json",
       "filename": "PolyLite PLA Pro @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Pro",
@@ -2645,7 +2645,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Pro Metallic/BBL/P2S/BambuStudio/PolyLite PLA Pro Metallic @BBL P2S.json",
       "filename": "PolyLite PLA Pro Metallic @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Pro Metallic",
@@ -2735,7 +2735,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Starlight/BBL/P2S/BambuStudio/PolyLite PLA Starlight @BBL P2S.json",
       "filename": "PolyLite PLA Starlight @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Starlight",
@@ -2852,7 +2852,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyLite PLA Translucent/BBL/P2S/BambuStudio/PolyLite PLA Translucent @BBL P2S.json",
       "filename": "PolyLite PLA Translucent @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyLite PLA Translucent",
@@ -2951,7 +2951,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA/BBL/P2S/BambuStudio/PolyTerra PLA @BBL P2S.json",
       "filename": "PolyTerra PLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyTerra PLA",
@@ -3050,7 +3050,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA Marble/BBL/P2S/BambuStudio/PolyTerra PLA Marble @BBL P2S.json",
       "filename": "PolyTerra PLA Marble @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyTerra PLA Marble",
@@ -3158,7 +3158,7 @@
       "slicer": "BambuStudio",
       "path": "preset/PolyTerra PLA+/BBL/P2S/BambuStudio/PolyTerra PLA+ @BBL P2S.json",
       "filename": "PolyTerra PLA+ @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "PolyTerra PLA+",
@@ -3221,7 +3221,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA/BBL/P2S/BambuStudio/Polymaker HT-PLA @BBL P2S.json",
       "filename": "Polymaker HT-PLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Polymaker HT-PLA",
@@ -3266,7 +3266,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Polymaker HT-PLA-GF/BBL/P2S/BambuStudio/Polymaker HT-PLA-GF @BBL P2S.json",
       "filename": "Polymaker HT-PLA-GF @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Polymaker HT-PLA-GF",
@@ -3419,7 +3419,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA/BBL/P2S/BambuStudio/Polymaker PLA @BBL P2S.json",
       "filename": "Polymaker PLA @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Polymaker PLA",
@@ -3473,7 +3473,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro/BBL/P2S/BambuStudio/Polymaker PLA Pro @BBL P2S.json",
       "filename": "Polymaker PLA Pro @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Polymaker PLA Pro",
@@ -3536,7 +3536,7 @@
       "slicer": "BambuStudio",
       "path": "preset/Polymaker PLA Pro Metallic/BBL/P2S/BambuStudio/Polymaker PLA Pro Metallic @BBL P2S.json",
       "filename": "Polymaker PLA Pro Metallic @BBL P2S.json",
-      "updatedAt": "2026-02-11T15:10:54+08:00"
+      "updatedAt": "2026-02-28T16:30:21+08:00"
     },
     {
       "material": "Polymaker PLA Pro Metallic",
